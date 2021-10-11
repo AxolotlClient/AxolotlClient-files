@@ -14,7 +14,7 @@
             "id":"Axolotlclient-1.17.1",
             "name":"AxolotlClient 1.17.1",
             "description": "Click to select the main 1.17.1 Version of AxolotlClient!",
-            "icon":"http://v2202010130453128524.happysrv.de/axoclient/files/axolotl.png",
+            "icon":"https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/axolotl.png",
             "version":"0.0.1",
             "address":"v2202010130453128524.happysrv.de",
             "minecraftVersion":"1.17.1",
@@ -40,7 +40,7 @@
                         "type": "VersionManifest",
                         "artifact":{
                             "size":"1338",
-                            "url":"http://v2202010130453128524.happysrv.de/axoclient/files/fabric-loader-0.11.6-1.17.1.json"
+                            "url":"https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/fabric-loader-0.11.6-1.17.1.json"
                             }
                     },
     		    {
@@ -144,14 +144,14 @@
 		"type":"File",
 		"artifact":{
 			"path":"mods/sodium-1.17.1.jar",
-			"url":"http://v2202010130453128524.happysrv.de/axoclient/files/sodium-frex-1.17.1.jar"
+			"url":"https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/mods/sodium-frex-1.17.1.jar"
 			}
 		},
 		{
                 "id":"net.irisshaders:iris:1.17.1",
                 "name":"iris-1.17.1.jar",
                 "type":"File",
-                "artifact":{"path":"mods/iris-1.17.1.jar","url":"http://v2202010130453128524.happysrv.de/axoclient/files/iris-1.17.1.jar"}
+                "artifact":{"path":"mods/iris-1.17.1.jar","url":"https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/mods/iris-1.17.1.jar"}
                 },
 		{
 		"id":"com.modrinth:mod-menu:2.0.5",
@@ -169,16 +169,16 @@
 			}
 		},
 
-		{"id": "mod", "type": "File", "artifact": {"url": "http://v2202010130453128524.happysrv.de/axoclient/files/servers.dat","path":"servers.dat"}},
-		{"id": "mod", "type": "File", "artifact": {"url": "http://v2202010130453128524.happysrv.de/axoclient/files/config/modmenu.json", "path": "config/modmenu.json"}},
-        	{"id": "mod", "type": "File", "artifact": {"url": "http://v2202010130453128524.happysrv.de/axoclient/files/config/figura.json", "path": "config/figura.json"}},
-        	{"id": "mod", "type": "File", "artifact": {"url": "http://v2202010130453128524.happysrv.de/axoclient/files/config/WindowTitleChanger/config.json5", "path": "config/WindowTitleChanger/config.json5"}},
-        	{"id": "mod", "type": "File", "artifact": {"url": "http://v2202010130453128524.happysrv.de/axoclient/files/options.txt","path":"options.txt"}},
-		{"id": "mod", "type": "File", "artifact": {"url": "http://v2202010130453128524.happysrv.de/axoclient/files/Simple-CT-1.1.0.zip", "path": "resourcepacks/Simple-CT-1.1.0.zip"}},
-		{"id": "mod", "type": "File", "artifact": {"url": "http://v2202010130453128524.happysrv.de/axoclient/files/CTM+Fabric+1.17.X.zip", "path": "resourcepacks/CTM+Fabric+1.17.X.zip"}},
+		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/servers.dat","path":"servers.dat"}},
+		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/config/modmenu.json", "path": "config/modmenu.json"}},
+        	{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/config/figura.json", "path": "config/figura.json"}},
+        	{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/config/WindowTitleChanger/config.json5", "path": "config/WindowTitleChanger/config.json5"}},
+        	{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/options.txt","path":"options.txt"}},
+		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/resourcepacks/Simple-CT-1.1.0.zip", "path": "resourcepacks/Simple-CT-1.1.0.zip"}},
+		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/resourcepacks/CTM+Fabric+1.17.X.zip", "path": "resourcepacks/CTM+Fabric+1.17.X.zip"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/heymanMC/Awesome-Skies/releases/download/1.0/Awesome-Skies-v1.0-0.5.0.zip", "path": "resourcepacks/Awesome-Skies-v1.0-0.5.0.zip"}},
-		{"id": "mod", "type": "File", "artifact": {"url": "http://v2202010130453128524.happysrv.de/axoclient/files/config/ghostrunner.txt", "path": "ghostrunner/options.txt"}},
-		{"id": "mod", "type": "File", "artifact": {"url": "http://v2202010130453128524.happysrv.de/axoclient/files/config/indicatia.json", "path": "config/indicatia.json"}},
+		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/config/ghostrunner.txt", "path": "ghostrunner/options.txt"}},
+		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/config/indicatia.json", "path": "config/indicatia.json"}},
 
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.2/lazydfu-0.1.2.jar", "path": "mods/lazydfu-0.1.2.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/TomB-134/MinimalMenu/releases/download/1.17-0.0.7/minimalmenu-1.17-0.0.7.jar", "path": "mods/minimalmenu-1.17-0.0.7.jar"}},
@@ -188,8 +188,8 @@
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/2Uev7LdA/versions/1.2.1+1.17/lambdabettergrass-1.2.1+1.17.jar", "path": "mods/lambdabettergrass-1.2.1+1.17.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/aXf2OSFU/versions/5.0.0-beta.2+1.17/okzoomer-5.0.0-beta.2+1.17.jar", "path": "mods/okzoomer-5.0.0-beta.2+1.17.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/v2.0.5/dynamic-fps-2.0.5.jar", "path": "mods/dynamic-fps-2.0.5.jar"}},
-		{"id": "mod", "type": "File", "artifact": {"url": "http://v2202010130453128524.happysrv.de/axoclient/files/branding-1.0.1.jar", "path": "mods/branding-1.0.1.jar"}},
-		{"id": "mod", "type": "File", "artifact": {"url": "http://v2202010130453128524.happysrv.de/axoclient/files/window_title_changer-2.1.1-1.17.jar", "path": "mods/window_title_changer-2.1.1-1.17.jar"}},
+		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/mods/branding-1.0.1.jar", "path": "mods/branding-1.0.1.jar"}},
+		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/mods/window_title_changer-2.1.1-1.17.jar", "path": "mods/window_title_changer-2.1.1-1.17.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/H8CaAYZC/versions/Starlight%201.0.0%201.17.x/starlight-1.0.0+fabric.73f6d37.jar", "path": "mods/starlight-1.0.0+fabric.1.17.x.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/Jw3Wx1KR/versions/1.17.1-fabric0.36.1-1.1.4/antighost-1.17.1-fabric0.36.1-1.1.4.jar", "path": "mods/antighost-1.17.1-fabric0.36.1-1.1.4.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/OVuFYfre/versions/0.5+1.17/enhancedblockentities-0.5+1.17.jar", "path": "mods/enhancedblockentities-0.5+1.17.jar"}},
@@ -199,7 +199,7 @@
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/3qsfQtE9/versions/1.5.1/fabrishot-1.5.1.jar", "path": "mods/fabrishot-1.5.1.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/YBz7DOs8/versions/0.5.2/fabricskyboxes-1.17-0.5.2.jar", "path": "mods/fabricskyboxes-1.17-0.5.2.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/eVXHt0JE/versions/1.2.4/MCG-1.17.1-1.2.4.jar", "path": "mods/MCG-1.17.1-1.2.4.jar"}},
-		{"id": "mod", "type": "File", "artifact": {"url": "http://v2202010130453128524.happysrv.de/axoclient/files/figura-1.17.jar", "path": "mods/figura-0.0.6-1.17.x.jar"}},
+		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/mods/figura-1.17.jar", "path": "mods/figura-0.0.6-1.17.x.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/1E2sq1cp/versions/1.0.5+1.17/vt-downloader-1.0.5+1.17.jar", "path": "mods/vt-downloader-1.0.5+1.17.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com//data/yM94ont6/versions/3.5.0+1.17/notenoughcrashes-3.5.0+1.17-fabric.jar", "path": "mods/notenoughcrashes-3.5.0+1.17-fabric.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/YQnwl5Vv/versions/3.3.0/visualoverhaul-3.3.0.jar", "path": "mods/visualoverhaul-3.3.0.jar"}},
@@ -212,21 +212,21 @@
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/1itdse3V/versions/1.0.0/timechanger-1.0.0.jar", "path": "mods/timechanger-1.0.0.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/qw2Ls89j/versions/1.0.0.17/rebind-narrator-1.17-1.0.0.jar", "path": "mods/rebind-narrator-1.17-1.0.0.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/V7z6aY71/versions/0.5.0/mcpppp-0.5.2.jar", "path": "mods/mcpppp-0.5.2.jar"}},
-		{"id": "mod", "type": "File", "artifact": {"url": "http://v2202010130453128524.happysrv.de/axoclient/files/axolotl-item-fix-1.1.2.jar", "path": "mods/axolotl-item-fix-1.1.2.jar"}},
+		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/mods/axolotl-item-fix-1.1.2.jar", "path": "mods/axolotl-item-fix-1.1.2.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/WKwQAwke/versions/1.1.0/libjf-1.1.0.jar", "path": "mods/libjf-1.1.0.jar"}},
-		{"id": "mod", "type": "File", "artifact": {"url": "http://v2202010130453128524.happysrv.de/axoclient/files/BSVB.jar", "path": "mods/BSVB.jar"}},
-		{"id": "mod", "type": "File", "artifact": {"url": "http://v2202010130453128524.happysrv.de/axoclient/files/KronHUD-2.0.0.jar", "path": "mods/KronHUD-2.0.0.jar"}},
-		{"id": "mod", "type": "File", "artifact": {"url": "http://v2202010130453128524.happysrv.de/axoclient/files/malilib-fabric-1.17.1-0.10.0-dev.24.jar", "path": "mods/malilib-fabric-1.17.1-0.10.0-dev.24.jar"}},
-		{"id": "mod", "type": "File", "artifact": {"url": "http://v2202010130453128524.happysrv.de/axoclient/files/litematica-fabric-1.17.1-0.0.0-dev.20210906.183617.jar", "path": "mods/litematica-fabric-1.17.1-0.0.0-dev.20210906.183617.jar"}},
-		{"id": "mod", "type": "File", "artifact": {"url": "http://v2202010130453128524.happysrv.de/axoclient/files/replaymod-1.17.1-2.6.1.jar", "path": "mods/replaymod-1.17.1-2.6.1.jar"}},
+		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/mods/BSVB.jar", "path": "mods/BSVB.jar"}},
+		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/mods/KronHUD-2.0.0.jar", "path": "mods/KronHUD-2.0.0.jar"}},
+		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/mods/malilib-fabric-1.17.1-0.10.0-dev.24.jar", "path": "mods/malilib-fabric-1.17.1-0.10.0-dev.24.jar"}},
+		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/mods/litematica-fabric-1.17.1-0.0.0-dev.20210906.183617.jar", "path": "mods/litematica-fabric-1.17.1-0.0.0-dev.20210906.183617.jar"}},
+		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/mods/replaymod-1.17.1-2.6.1.jar", "path": "mods/replaymod-1.17.1-2.6.1.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/RedLime/GhostRunner/releases/download/1.7/GhostRunner-1.7+1.17.1.jar", "path": "mods/GhostRunner-1.7+1.17.1.jar"}},
-		{"id": "mod", "type": "File", "artifact": {"url": "http://v2202010130453128524.happysrv.de/axoclient/files/indicatia-1.17.jar", "path": "mods/indicatia-1.17.jar"}},
-		{"id": "mod", "type": "File", "artifact": {"url": "http://v2202010130453128524.happysrv.de/axoclient/files/architectury-1.17.jar", "path": "mods/architectury-1.17.jar"}},
-		{"id": "mod", "type": "File", "artifact": {"url": "http://v2202010130453128524.happysrv.de/axoclient/files/swordblocking-1.1.0.jar", "path": "mods/swordblocking-1.1.0.jar"}},
-		{"id": "mod", "type": "File", "artifact": {"url": "http://v2202010130453128524.happysrv.de/axoclient/files/item-model-fix-1.0.2+1.17.jar", "path": "mods/item-model-fix-1.0.2+1.17.jar"}},
-		{"id": "mod", "type": "File", "artifact": {"url": "http://v2202010130453128524.happysrv.de/axoclient/files/betterdroppeditems-1.3.0-1.17.jar", "path": "mods/betterdroppeditems-1.3.0-1.17.jar"}},
-		{"id": "mod", "type": "File", "artifact": {"url": "http://v2202010130453128524.happysrv.de/axoclient/files/SmoothScrollingEverywhere-3.0.3-unstable.jar", "path": "mods/SmoothScrollingEverywhere-3.0.3-unstable.jar"}},
-		{"id": "mod", "type": "File", "artifact": {"url": "http://v2202010130453128524.happysrv.de/axoclient/files/nicephore-fabric-1.17.x-1.0.1.jar", "path": "mods/nicephore-fabric-1.17.x-1.0.1.jar"}},
+		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/mods/indicatia-1.17.jar", "path": "mods/indicatia-1.17.jar"}},
+		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/mods/architectury-1.17.jar", "path": "mods/architectury-1.17.jar"}},
+		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/mods/swordblocking-1.1.0.jar", "path": "mods/swordblocking-1.1.0.jar"}},
+		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/mods/item-model-fix-1.0.2+1.17.jar", "path": "mods/item-model-fix-1.0.2+1.17.jar"}},
+		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/mods/betterdroppeditems-1.3.0-1.17.jar", "path": "mods/betterdroppeditems-1.3.0-1.17.jar"}},
+		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/mods/SmoothScrollingEverywhere-3.0.3-unstable.jar", "path": "mods/SmoothScrollingEverywhere-3.0.3-unstable.jar"}},
+		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/mods/nicephore-fabric-1.17.x-1.0.1.jar", "path": "mods/nicephore-fabric-1.17.x-1.0.1.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com//data/otVJckYQ/versions/0.7.1/CITResewn-0.7.1.jar", "path": "mods/CITResewn-0.7.1.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/Intro-Dev/Osmium/releases/download/1.2.3-1.17.1/osmium-1.2.3.jar", "path": "mods/osmium-1.2.3.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/msRGy0cC/versions/1.0.3/entity-distance-1.0.3.jar", "path": "mods/entity-distance-1.0.3.jar"}},
@@ -234,9 +234,9 @@
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com//data/qbVUbcik/versions/1.0.0/tnttime-fabric-1.0.0.jar", "path": "mods/tnttime-fabric-1.0.0.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/YIDACt5U/versions/1.0.0/SilentBackground-1.0.0-1.17.1.jar", "path": "mods/SilentBackground-1.0.0-1.17.1.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/uXXizFIs/versions/3.1.0/ferritecore-3.1.0-fabric.jar", "path": "mods/ferritecore-3.1.0-fabric.jar"}},
-		{"id": "mod", "type": "File", "artifact": {"url": "http://v2202010130453128524.happysrv.de/axoclient/files/Controlling-For-Fabric-1.2.0.jar", "path": "mods/Controlling-For-Fabric-1.2.0.jar"}},
-		{"id": "mod", "type": "File", "artifact": {"url": "http://v2202010130453128524.happysrv.de/axoclient/files/NoAngleBrackets-1.17-1.1.0.jar", "path": "mods/NoAngleBrackets-1.17-1.1.0.jar"}},
-		{"id": "mod", "type": "File", "artifact": {"url": "http://v2202010130453128524.happysrv.de/axoclient/files/no-potion-offset-1.0.2.jar", "path": "mods/no-potion-offset-1.0.2.jar"}},
+		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/mods/Controlling-For-Fabric-1.2.0.jar", "path": "mods/Controlling-For-Fabric-1.2.0.jar"}},
+		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/mods/NoAngleBrackets-1.17-1.1.0.jar", "path": "mods/NoAngleBrackets-1.17-1.1.0.jar"}},
+		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/mods/no-potion-offset-1.0.2.jar", "path": "mods/no-potion-offset-1.0.2.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/OoXncSHG/versions/2.3.0/skin-swapper-2.3.0.jar", "path": "mods/skin-swapper-2.3.0.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/PepperCode1/ConnectedTexturesMod-Fabric/releases/download/v0.5.1%2B1.17/ctm-fabric-0.5.1+1.17.jar", "path": "mods/ctm-fabric-0.5.1+1.17.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/1.2.0/reeses_sodium_options-mc1.17.1-1.2.0.jar", "path": "mods/reeses_sodium_options-mc1.17.1-1.2.0.jar"}},
@@ -248,7 +248,7 @@
             "id":"Axolotlclient-1.17.1-lite",
             "name":"AxolotlClient 1.17.1 (Lite version)",
             "description": "Click to select the lite 1.17.1 Version of AxolotlClient!",
-            "icon":"http://v2202010130453128524.happysrv.de/axoclient/files/axolotl.png",
+            "icon":"https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/axolotl.png",
             "version":"0.0.1",
             "address":"v2202010130453128524.happysrv.de",
             "minecraftVersion":"1.17.1",
@@ -274,7 +274,7 @@
                         "type": "VersionManifest",
                         "artifact":{
                             "size":"1338",
-                            "url":"http://v2202010130453128524.happysrv.de/axoclient/files/fabric-loader-0.11.6-1.17.1.json"
+                            "url":"https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/fabric-loader-0.11.6-1.17.1.json"
                             }
                     },
 		    {
@@ -377,14 +377,14 @@
 		"type":"File",
 		"artifact":{
 			"path":"mods/sodium-1.17.1.jar",
-			"url":"http://v2202010130453128524.happysrv.de/axoclient/files/sodium-fabric-mc1.17.1-0.3.2.jar"
+			"url":"https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/mods/sodium-fabric-mc1.17.1-0.3.2.jar"
 			}
 		},
 		{
                 "id":"net.irisshaders:iris:1.17.1",
                 "name":"iris-1.17.1.jar",
                 "type":"File",
-                "artifact":{"path":"mods/iris-1.17.1.jar","url":"http://v2202010130453128524.happysrv.de/axoclient/files/iris-1.17.1.jar"}
+                "artifact":{"path":"mods/iris-1.17.1.jar","url":"https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/mods/iris-1.17.1.jar"}
                 },
 		{
 		"id":"com.modrinth:mod-menu:2.0.5",
@@ -402,11 +402,11 @@
 			}
 		},
 
-		{"id": "mod", "type": "File", "artifact": {"url": "http://v2202010130453128524.happysrv.de/axoclient/files/servers.dat","path":"servers.dat"}},
-        	{"id": "mod", "type": "File", "artifact": {"url": "http://v2202010130453128524.happysrv.de/axoclient/files/config/modmenu.json", "path": "config/modmenu.json"}},
-        	{"id": "mod", "type": "File", "artifact": {"url": "http://v2202010130453128524.happysrv.de/axoclient/files/config/figura.json", "path": "config/figura.json"}},
-        	{"id": "mod", "type": "File", "artifact": {"url": "http://v2202010130453128524.happysrv.de/axoclient/files/config/WindowTitleChanger/config.json5", "path": "config/WindowTitleChanger/config.json5"}},
-        	{"id": "mod", "type": "File", "artifact": {"url": "http://v2202010130453128524.happysrv.de/axoclient/files/options.txt","path":"options.txt"}},
+		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/servers.dat","path":"servers.dat"}},
+        	{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/config/modmenu.json", "path": "config/modmenu.json"}},
+        	{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/config/figura.json", "path": "config/figura.json"}},
+        	{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/config/WindowTitleChanger/config.json5", "path": "config/WindowTitleChanger/config.json5"}},
+        	{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/options.txt","path":"options.txt"}},
 
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.2/lazydfu-0.1.2.jar", "path": "mods/lazydfu-0.1.2.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/TomB-134/MinimalMenu/releases/download/1.17-0.0.7/minimalmenu-1.17-0.0.7.jar", "path": "mods/minimalmenu-1.17-0.0.7.jar"}},
@@ -414,15 +414,15 @@
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/yBW8D80W/versions/2.0.2+1.17/lambdynamiclights-2.0.2+1.17.jar", "path": "mods/lambdynamiclights-2.0.2+1.17.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/aXf2OSFU/versions/5.0.0-beta.2+1.17/okzoomer-5.0.0-beta.2+1.17.jar", "path": "mods/okzoomer-5.0.0-beta.2+1.17.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/v2.0.5/dynamic-fps-2.0.5.jar", "path": "mods/dynamic-fps-2.0.5.jar"}},
-		{"id": "mod", "type": "File", "artifact": {"url": "http://v2202010130453128524.happysrv.de/axoclient/files/branding-1.0.1.jar", "path": "mods/branding-1.0.1.jar"}},
-		{"id": "mod", "type": "File", "artifact": {"url": "http://v2202010130453128524.happysrv.de/axoclient/files/window_title_changer-2.1.1-1.17.jar", "path": "mods/window_title_changer-2.1.1-1.17.jar"}},
+		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/mods/branding-1.0.1.jar", "path": "mods/branding-1.0.1.jar"}},
+		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/mods/window_title_changer-2.1.1-1.17.jar", "path": "mods/window_title_changer-2.1.1-1.17.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/PaperMC/Starlight/releases/download/1.0.0-RC3/starlight-1.0.0-RC3+fabric.1.17.x.jar", "path": "mods/starlight-1.0.0-RC3+fabric.1.17.x.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/Jw3Wx1KR/versions/1.17.1-fabric0.36.1-1.1.4/antighost-1.17.1-fabric0.36.1-1.1.4.jar", "path": "mods/antighost-1.17.1-fabric0.36.1-1.1.4.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/OVuFYfre/versions/0.5+1.17/enhancedblockentities-0.5+1.17.jar", "path": "mods/enhancedblockentities-0.5+1.17.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/GNxdLCoP/versions/2.2.0/cullleaves-2.2.0.jar", "path": "mods/cullleaves-2.2.0.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/NK39zBp2/versions/2.2.1/Blur-2.2.1-1.17+fabric.jar", "path": "mods/Blur-2.2.1-1.17+fabric.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/YBz7DOs8/versions/0.5.2/fabricskyboxes-1.17-0.5.2.jar", "path": "mods/fabricskyboxes-1.17-0.5.2.jar"}},
-		{"id": "mod", "type": "File", "artifact": {"url": "http://v2202010130453128524.happysrv.de/axoclient/files/figura-1.17.jar", "path": "mods/figura-0.0.6-1.17.x.jar"}},
+		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/mods/figura-1.17.jar", "path": "mods/figura-0.0.6-1.17.x.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/1E2sq1cp/versions/1.0.5+1.17/vt-downloader-1.0.5+1.17.jar", "path": "mods/vt-downloader-1.0.5+1.17.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com//data/yM94ont6/versions/3.5.0+1.17/notenoughcrashes-3.5.0+1.17-fabric.jar", "path": "mods/notenoughcrashes-3.5.0+1.17-fabric.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/YQnwl5Vv/versions/3.3.0/visualoverhaul-3.3.0.jar", "path": "mods/visualoverhaul-3.3.0.jar"}},
@@ -435,12 +435,12 @@
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/1itdse3V/versions/1.0.0/timechanger-1.0.0.jar", "path": "mods/timechanger-1.0.0.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/qw2Ls89j/versions/1.0.0.17/rebind-narrator-1.17-1.0.0.jar", "path": "mods/rebind-narrator-1.17-1.0.0.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/V7z6aY71/versions/0.5.0/mcpppp-0.5.0.jar", "path": "mods/mcpppp-0.5.0.jar"}},
-		{"id": "mod", "type": "File", "artifact": {"url": "http://v2202010130453128524.happysrv.de/axoclient/files/axolotl-item-fix-1.1.2.jar", "path": "mods/axolotl-item-fix-1.1.2.jar"}},
+		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/mods/axolotl-item-fix-1.1.2.jar", "path": "mods/axolotl-item-fix-1.1.2.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/WKwQAwke/versions/1.1.0/libjf-1.1.0.jar", "path": "mods/libjf-1.1.0.jar"}},
-		{"id": "mod", "type": "File", "artifact": {"url": "http://v2202010130453128524.happysrv.de/axoclient/files/BSVB.jar", "path": "mods/BSVB.jar"}},
-		{"id": "mod", "type": "File", "artifact": {"url": "http://v2202010130453128524.happysrv.de/axoclient/files/KronHUD-2.0.0.jar", "path": "mods/KronHUD-2.0.0.jar"}},
-		{"id": "mod", "type": "File", "artifact": {"url": "http://v2202010130453128524.happysrv.de/axoclient/files/malilib-fabric-1.17.1-0.10.0-dev.24.jar", "path": "mods/malilib-fabric-1.17.1-0.10.0-dev.24.jar"}},
-		{"id": "mod", "type": "File", "artifact": {"url": "http://v2202010130453128524.happysrv.de/axoclient/files/item-model-fix-1.0.2+1.17.jar", "path": "mods/item-model-fix-1.0.2+1.17.jar"}}
+		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/mods/BSVB.jar", "path": "mods/BSVB.jar"}},
+		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/mods/KronHUD-2.0.0.jar", "path": "mods/KronHUD-2.0.0.jar"}},
+		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/mods/malilib-fabric-1.17.1-0.10.0-dev.24.jar", "path": "mods/malilib-fabric-1.17.1-0.10.0-dev.24.jar"}},
+		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/mods/item-model-fix-1.0.2+1.17.jar", "path": "mods/item-model-fix-1.0.2+1.17.jar"}}
 
         ]}
     ]
