@@ -1,0 +1,21 @@
+{
+  "disableReturnToMainMenu": false,
+  "deobfuscateStackTrace": true,
+  "debugModIdentification": false,
+  "forceCrashScreen": false,
+  "crashlogUpload": {
+    "destination": "BYTEBIN",
+    "hasteUrl": "https://hastebin.com/",
+    "bytebinUrl": "https://bytebin.lucko.me/",
+    "gist": {
+      "accessToken": "",
+      "unlisted": false
+    },
+    "pastebin": {
+      "uploadKey": "",
+      "privacy": "PUBLIC",
+      "expiry": "NEVER"
+    },
+    "customUserAgent": ""
+  }
+}

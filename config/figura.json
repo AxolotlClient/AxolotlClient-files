@@ -1,0 +1,16 @@
+{
+  "chatMods": false,
+  "logOthers": true,
+  "actionWheelPos": 0,
+  "actionWheel": -1,
+  "ownNameTag": true,
+  "previewNameTag": true,
+  "nameTagMods": true,
+  "buttonLocation": 3,
+  "showBadges": true,
+  "useLocalServer": false,
+  "nameTagIcon": true,
+  "formatScript": true,
+  "scriptLog": 1,
+  "listMods": true
+}
