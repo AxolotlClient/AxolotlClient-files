@@ -1,8 +1,0 @@
-{ 
-	// Set the Custom Time (-1 to disable)
-	"custom_time": -1,
-	// Whitelist/Blacklist servers
-	"whitelist": [ 
-],
-	"blacklist": false
-}
