@@ -227,7 +227,7 @@
 		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/mods/SmoothScrollingEverywhere-3.0.3-unstable.jar?raw=true", "path": "mods/SmoothScrollingEverywhere-3.0.3-unstable.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/mods/nicephore-fabric-1.17.x-1.0.1.jar?raw=true", "path": "mods/nicephore-fabric-1.17.x-1.0.1.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com//data/otVJckYQ/versions/0.7.1/CITResewn-0.7.1.jar", "path": "mods/CITResewn-0.7.1.jar"}},
-		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/Intro-Dev/Osmium/releases/download/1.2.3.1-1.17.1/osmium-1.2.3.1.jar", "path": "mods/osmium-1.2.3.jar"}},
+		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/Intro-Dev/Osmium/releases/download/1.2.3.1-1.17.1/osmium-1.2.3.1.jar", "path": "mods/osmium-1.2.3.1.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/msRGy0cC/versions/1.0.3/entity-distance-1.0.3.jar", "path": "mods/entity-distance-1.0.3.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com//data/DpyXb96r/versions/1.0/LetSleepingDogsLie-Fabric-1.17.1-1.0.0.jar", "path": "mods/LetSleepingDogsLie-Fabric-1.17.1-1.0.0.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com//data/qbVUbcik/versions/1.0.0/tnttime-fabric-1.0.0.jar", "path": "mods/tnttime-fabric-1.0.0.jar"}},
