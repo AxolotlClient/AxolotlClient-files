@@ -178,6 +178,7 @@
 		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/heymanMC/Awesome-Skies/releases/download/1.0/Awesome-Skies-v1.0-0.5.0.zip", "path": "resourcepacks/Awesome-Skies-v1.0-0.5.0.zip"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/config/ghostrunner.txt?raw=true", "path": "ghostrunner/options.txt"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/config/indicatia.json?raw=true", "path": "config/indicatia.json"}},
+		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.17-main/config/ias.json", "path": "config/ias.json"}},
 
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.2/lazydfu-0.1.2.jar", "path": "mods/lazydfu-0.1.2.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/TomB-134/MinimalMenu/releases/download/1.17-0.0.7/minimalmenu-1.17-0.0.7.jar", "path": "mods/minimalmenu-1.17-0.0.7.jar"}},
@@ -424,7 +425,7 @@
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/Jw3Wx1KR/versions/1.17.1-fabric0.36.1-1.1.4/antighost-1.17.1-fabric0.36.1-1.1.4.jar", "path": "mods/antighost-1.17.1-fabric0.36.1-1.1.4.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/OVuFYfre/versions/0.5+1.17/enhancedblockentities-0.5+1.17.jar", "path": "mods/enhancedblockentities-0.5+1.17.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/GNxdLCoP/versions/2.2.0/cullleaves-2.2.0.jar", "path": "mods/cullleaves-2.2.0.jar"}},
-		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/NK39zBp2/versions/2.2.1/Blur-2.2.1-1.17+fabric.jar", "path": "mods/Blur-2.2.1-1.17+fabric.jar"}},
+		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/NK39zBp2/versions/2.3.0/Blur-2.3.0-1.17+fabric.jar", "path": "mods/Blur-2.3.0-1.17+fabric.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/YBz7DOs8/versions/0.5.2/fabricskyboxes-1.17-0.5.2.jar", "path": "mods/fabricskyboxes-1.17-0.5.2.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/mods/figura-1.17.jar?raw=true", "path": "mods/figura-0.0.6-1.17.x.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/1E2sq1cp/versions/1.0.5+1.17/vt-downloader-1.0.5+1.17.jar", "path": "mods/vt-downloader-1.0.5+1.17.jar"}},
