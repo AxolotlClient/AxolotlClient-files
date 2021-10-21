@@ -26,20 +26,20 @@
             "autoconnect": false,
             "modules": [
                 {
-                "name": "fabric-loader-0.11.6",
-                "id": "net.fabricmc:fabric-loader:0.11.6",
+                "name": "fabric-loader-0.11.7",
+                "id": "net.fabricmc:fabric-loader:0.11.7",
                 "artifact":{
-                    "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.11.6/fabric-loader-0.11.6.jar"
+                    "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.11.7/fabric-loader-0.11.7.jar"
                     },
                 "type": "ForgeHosted",
                 "subModules": [
                     {
-                        "id":"fabric-loader-0.11.6-1.17.1",
+                        "id":"fabric-loader-0.11.7-1.17.1",
                         "name":"Version Manifest",
                         "type": "VersionManifest",
                         "artifact":{
                             "size":"1338",
-                            "url":"https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/fabric-loader-0.11.6-1.17.1.json?raw=true"
+                            "url":"https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/fabric-loader-0.11.7-1.17.1.json?raw=true"
                             }
                     },
     		    {
