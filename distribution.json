@@ -175,7 +175,6 @@
         	{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/options.txt?raw=true","path":"options.txt"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/resourcepacks/Simple-CT-1.1.0.zip?raw=true", "path": "resourcepacks/Simple-CT-1.1.0.zip"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/resourcepacks/CTM+Fabric+1.17.X.zip?raw=true", "path": "resourcepacks/CTM+Fabric+1.17.X.zip"}},
-		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/heymanMC/Awesome-Skies/releases/download/1.0/Awesome-Skies-v1.0-0.5.0.zip", "path": "resourcepacks/Awesome-Skies-v1.0-0.5.0.zip"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/config/ghostrunner.txt?raw=true", "path": "ghostrunner/options.txt"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/config/indicatia.json?raw=true", "path": "config/indicatia.json"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.17-main/config/ias.json", "path": "config/ias.json"}},
