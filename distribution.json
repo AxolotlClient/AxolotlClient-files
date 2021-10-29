@@ -220,7 +220,6 @@
 		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/RedLime/GhostRunner/releases/download/1.7/GhostRunner-1.7+1.17.1.jar", "path": "mods/GhostRunner-1.7+1.17.1.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/mods/indicatia-1.17.jar?raw=true", "path": "mods/indicatia-1.17.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/mods/architectury-1.17.jar?raw=true", "path": "mods/architectury-1.17.jar"}},
-		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/mods/swordblocking-1.1.0.jar?raw=true", "path": "mods/swordblocking-1.1.0.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/mods/item-model-fix-1.0.2+1.17.jar?raw=true", "path": "mods/item-model-fix-1.0.2+1.17.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/mods/betterdroppeditems-1.3.0-1.17.jar?raw=true", "path": "mods/betterdroppeditems-1.3.0-1.17.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/mods/SmoothScrollingEverywhere-3.0.3-unstable.jar?raw=true", "path": "mods/SmoothScrollingEverywhere-3.0.3-unstable.jar"}},
