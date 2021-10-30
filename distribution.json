@@ -229,7 +229,7 @@
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/msRGy0cC/versions/1.0.3/entity-distance-1.0.3.jar", "path": "mods/entity-distance-1.0.3.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com//data/DpyXb96r/versions/1.0/LetSleepingDogsLie-Fabric-1.17.1-1.0.0.jar", "path": "mods/LetSleepingDogsLie-Fabric-1.17.1-1.0.0.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com//data/qbVUbcik/versions/1.0.0/tnttime-fabric-1.0.0.jar", "path": "mods/tnttime-fabric-1.0.0.jar"}},
-		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/YIDACt5U/versions/1.0.0/SilentBackground-1.0.1-1.17.1.jar", "path": "mods/SilentBackground-1.0.1-1.17.1.jar"}},
+		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/YIDACt5U/versions/1.0.1/SilentBackground-1.0.1-1.17.1.jar", "path": "mods/SilentBackground-1.0.1-1.17.1.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/uXXizFIs/versions/3.1.0/ferritecore-3.1.0-fabric.jar", "path": "mods/ferritecore-3.1.0-fabric.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/mods/Controlling-For-Fabric-1.2.0.jar?raw=true", "path": "mods/Controlling-For-Fabric-1.2.0.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/mods/NoAngleBrackets-1.17-1.1.0.jar?raw=true", "path": "mods/NoAngleBrackets-1.17-1.1.0.jar"}},
