@@ -192,7 +192,7 @@
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/H8CaAYZC/versions/Starlight%201.0.0%201.17.x/starlight-1.0.0+fabric.73f6d37.jar", "path": "mods/starlight-1.0.0+fabric.1.17.x.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/Jw3Wx1KR/versions/1.17.1-fabric0.36.1-1.1.4/antighost-1.17.1-fabric0.36.1-1.1.4.jar", "path": "mods/antighost-1.17.1-fabric0.36.1-1.1.4.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/OVuFYfre/versions/0.5+1.17/enhancedblockentities-0.5+1.17.jar", "path": "mods/enhancedblockentities-0.5+1.17.jar"}},
-		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/GNxdLCoP/versions/2.3.2/cullleaves-2.3.2.jar", "path": "mods/cullleaves-2.3.12jar"}},
+		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/GNxdLCoP/versions/2.3.2/cullleaves-2.3.2.jar", "path": "mods/cullleaves-2.3.2.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/NK39zBp2/versions/2.3.0/Blur-2.3.0-1.17+fabric.jar", "path": "mods/Blur-2.3.0-1.17+fabric.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/M08ruV16/versions/2.0.4/bobby-2.0.4.jar", "path": "mods/bobby-2.0.4.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/3qsfQtE9/versions/1.5.1/fabrishot-1.5.1.jar", "path": "mods/fabrishot-1.5.1.jar"}},
