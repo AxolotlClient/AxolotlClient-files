@@ -437,7 +437,7 @@
 		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/TeamMidnightDust/TimeChanger/releases/download/v1.1.0/timechanger-1.1.0.jar", "path": "mods/timechanger-1.1.0.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/qw2Ls89j/versions/1.0.0.17/rebind-narrator-1.17-1.0.0.jar", "path": "mods/rebind-narrator-1.17-1.0.0.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/V7z6aY71/versions/0.5.0/mcpppp-0.5.0.jar", "path": "mods/mcpppp-0.5.0.jar"}},
-		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/mods/axolotl-item-fix-1.1.2.jar?raw=true", "path": "mods/axolotl-item-fix-1.1.2.jar"}},
+		{"id": "mod", "type": "File", "artifact": {"url": "https://media.forgecdn.net/files/3423/450/axolotl-item-fix-1.1.2.jar", "path": "mods/axolotl-item-fix-1.1.2.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/WKwQAwke/versions/1.1.0/libjf-1.1.0.jar", "path": "mods/libjf-1.1.0.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://media.forgecdn.net/files/3487/563/bsvsb-2.0.4.jar", "path": "mods/BSVB.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://media.forgecdn.net/files/3441/441/KronHUD-2.0.0.jar", "path": "mods/KronHUD-2.0.0.jar"}},
