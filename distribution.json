@@ -181,7 +181,7 @@
 
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.2/lazydfu-0.1.2.jar", "path": "mods/lazydfu-0.1.2.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/TomB-134/MinimalMenu/releases/download/1.17-0.0.7/minimalmenu-1.17-0.0.7.jar", "path": "mods/minimalmenu-1.17-0.0.7.jar"}},
-		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.17.1-0.7.3/lithium-fabric-mc1.17.1-0.7.3.jar", "path": "mods/lithium-fabric-mc1.17.1-0.7.3.jar"}},
+		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.17.1-0.7.5/lithium-fabric-mc1.17.1-0.7.5.jar", "path": "mods/lithium-fabric-mc1.17.1-0.7.5.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/yBW8D80W/versions/2.0.2+1.17/lambdynamiclights-2.0.2+1.17.jar", "path": "mods/lambdynamiclights-2.0.2+1.17.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.0+mc1.17.1/indium-1.0.0+mc1.17.1.jar", "path": "mods/indium-1.0.0+mc1.17.1.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/2Uev7LdA/versions/1.2.1+1.17/lambdabettergrass-1.2.1+1.17.jar", "path": "mods/lambdabettergrass-1.2.1+1.17.jar"}},
@@ -412,7 +412,7 @@
 
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.2/lazydfu-0.1.2.jar", "path": "mods/lazydfu-0.1.2.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/TomB-134/MinimalMenu/releases/download/1.17-0.0.7/minimalmenu-1.17-0.0.7.jar", "path": "mods/minimalmenu-1.17-0.0.7.jar"}},
-		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.17.1-0.7.3/lithium-fabric-mc1.17.1-0.7.3.jar", "path": "mods/lithium-fabric-mc1.17.1-0.7.3.jar"}},
+		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.17.1-0.7.5/lithium-fabric-mc1.17.1-0.7.5.jar", "path": "mods/lithium-fabric-mc1.17.1-0.7.5.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/yBW8D80W/versions/2.0.2+1.17/lambdynamiclights-2.0.2+1.17.jar", "path": "mods/lambdynamiclights-2.0.2+1.17.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/aXf2OSFU/versions/5.0.0-beta.2+1.17/okzoomer-5.0.0-beta.2+1.17.jar", "path": "mods/okzoomer-5.0.0-beta.2+1.17.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/v2.0.5/dynamic-fps-2.0.5.jar", "path": "mods/dynamic-fps-2.0.5.jar"}},
