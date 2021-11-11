@@ -39,7 +39,7 @@
                         "type": "VersionManifest",
                         "artifact":{
                             "size":"1181",
-                            "url":"https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/fabric-loader-0.12.5-1.17.1.json?raw=true"
+                            "url":"https://github.com/moehreag/AxolotlClient-files/raw/1.17-main/fabric-loader-0.12.5-1.17.1.json"
                             }
                     },
     		    {
@@ -51,17 +51,17 @@
 			}
 		    },
                     {
-                        "id": "net.fabricmc:yarn:1.17.1+build.40",
+                        "id": "net.fabricmc:yarn:1.17.1+build.63",
                         "type":"Library",
                         "artifact":{
-                        "url": "https://maven.fabricmc.net/net/fabricmc/yarn/1.17.1+build.40/yarn-1.17.1+build.40.jar"
+                        "url": "https://maven.fabricmc.net/net/fabricmc/yarn/1.17.1+build.63/yarn-1.17.1+build.63.jar"
                       }
                     },
                     {
-                        "id": "net.fabricmc:tiny-mappings-parser:0.2.2.14",
+                        "id": "net.fabricmc:tiny-mappings-parser:0.3.0+build.17",
                         "type":"Library",
                         "artifact":{
-                        "url": "https://maven.fabricmc.net/net/fabricmc/tiny-mappings-parser/0.2.2.14/tiny-mappings-parser-0.2.2.14.jar"
+                        "url": "https://maven.fabricmc.net/net/fabricmc/tiny-mappings-parser/0.3.0%2Bbuild.17/tiny-mappings-parser-0.3.0+build.17.jar"
                       }
                     },
                     {
@@ -72,17 +72,17 @@
                       }
                     },
                     {
-                        "id": "net.fabricmc:tiny-remapper:0.4.2",
+                        "id": "net.fabricmc:tiny-remapper:0.6.0",
                         "type":"Library",
                         "artifact":{
-                        "url": "https://maven.fabricmc.net/net/fabricmc/tiny-remapper/0.4.2/tiny-remapper-0.4.2.jar"
+                        "url": "https://maven.fabricmc.net/net/fabricmc/tiny-remapper/0.6.0/tiny-remapper-0.6.0.jar"
                       }
                     },
                     {
-                        "id": "net.fabricmc:access-widener:1.0.0",
+                        "id": "net.fabricmc:access-widener:2.0.1",
                         "type":"Library",
                         "artifact":{
-                        "url": "https://maven.fabricmc.net/net/fabricmc/access-widener/1.0.0/access-widener-1.0.0.jar"
+                        "url": "https://maven.fabricmc.net/net/fabricmc/access-widener/2.0.1/access-widener-2.0.1.jar"
                       }
                     },
                     {
@@ -100,38 +100,38 @@
                       }
                     },
                     {
-                        "id": "org.ow2.asm:asm:9.1",
+                        "id": "org.ow2.asm:asm:9.2",
                         "type":"Library",
                         "artifact":{
-                        "url": "https://maven.fabricmc.net/org/ow2/asm/asm/9.1/asm-9.1.jar"
+                        "url": "https://maven.fabricmc.net/org/ow2/asm/asm/9.2/asm-9.2.jar"
                       }
                     },
                     {
-                        "id": "org.ow2.asm:asm-analysis:9.1",
+                        "id": "org.ow2.asm:asm-analysis:9.2",
                         "type":"Library",
                         "artifact":{
-                        "url": "https://maven.fabricmc.net/org/ow2/asm/asm-analysis/9.1/asm-analysis-9.1.jar"
+                        "url": "https://maven.fabricmc.net/org/ow2/asm/asm-analysis/9.2/asm-analysis-9.2.jar"
                       }
                     },
                     {
-                        "id": "org.ow2.asm:asm-commons:9.1",
+                        "id": "org.ow2.asm:asm-commons:9.2",
                         "type":"Library",
                         "artifact":{
-                        "url": "https://maven.fabricmc.net/org/ow2/asm/asm-commons/9.1/asm-commons-9.1.jar"
+                        "url": "https://maven.fabricmc.net/org/ow2/asm/asm-commons/9.2/asm-commons-9.2.jar"
                       }
                     },
                     {
-                        "id": "org.ow2.asm:asm-tree:9.1",
+                        "id": "org.ow2.asm:asm-tree:9.2",
                         "type":"Library",
                         "artifact":{
-                        "url": "https://maven.fabricmc.net/org/ow2/asm/asm-tree/9.1/asm-tree-9.1.jar"
+                        "url": "https://maven.fabricmc.net/org/ow2/asm/asm-tree/9.2/asm-tree-9.2.jar"
                       }
                     },
                     {
-                        "id": "org.ow2.asm:asm-util:9.1",
+                        "id": "org.ow2.asm:asm-util:9.2",
                         "type":"Library",
                         "artifact":{
-                        "url": "https://maven.fabricmc.net/org/ow2/asm/asm-util/9.1/asm-util-9.1.jar"
+                        "url": "https://maven.fabricmc.net/org/ow2/asm/asm-util/9.2/asm-util-9.2.jar"
                         }
                     }
                 ]},
