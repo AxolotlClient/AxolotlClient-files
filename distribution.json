@@ -225,7 +225,7 @@
 		{"id": "mod", "type": "File", "artifact": {"url": "https://media.forgecdn.net/files/3511/819/nicephore-fabric-1.17.x-1.2.0.jar", "path": "mods/nicephore-fabric-1.17.x-1.1.0.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/otVJckYQ/versions/0.8.0/CITResewn-0.8.0.jar", "path": "mods/CITResewn-1.17.1.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://github.com/Intro-Dev/Osmium/releases/download/1.2.3.1-1.17.1/osmium-1.2.3.1.jar", "path": "mods/osmium-1.2.3.1.jar"}},
-		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/msRGy0cC/versions/1.0.3/entity-distance-1.0.3.jar", "path": "mods/entity-distance-1.0.3.jar"}},
+		{"name": "entity-view-distance-1.0.0.jar", "id": "entity-view-distance-1.0.0.jar", "type": "File", "artifact":{"url": "https://cdn.modrinth.com/data/ihnBJ6on/versions/1.0.0/entity-view-distance-1.0.0.jar", "size": 275910, "MD5": "4cc40882fa67f76da27938452b0bbc39", "path": "mods/entity-view-distance-1.0.0.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com//data/DpyXb96r/versions/1.0/LetSleepingDogsLie-Fabric-1.17.1-1.0.0.jar", "path": "mods/LetSleepingDogsLie-Fabric-1.17.1-1.0.0.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com//data/qbVUbcik/versions/1.0.0/tnttime-fabric-1.0.0.jar", "path": "mods/tnttime-fabric-1.0.0.jar"}},
 		{"id": "mod", "type": "File", "artifact": {"url": "https://cdn.modrinth.com/data/YIDACt5U/versions/1.0.1/SilentBackground-1.0.1-1.17.1.jar", "path": "mods/SilentBackground-1.0.1-1.17.1.jar"}},
