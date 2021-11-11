@@ -34,12 +34,12 @@
                 "type": "ForgeHosted",
                 "subModules": [
                     {
-                        "id":"fabric-loader-0.11.7-1.17.1",
+                        "id":"fabric-loader-0.12.5-1.17.1",
                         "name":"Version Manifest",
                         "type": "VersionManifest",
                         "artifact":{
-                            "size":"1338",
-                            "url":"https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/fabric-loader-0.11.7-1.17.1.json?raw=true"
+                            "size":"1181",
+                            "url":"https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/fabric-loader-0.12.5-1.17.1.json?raw=true"
                             }
                     },
     		    {
@@ -270,12 +270,12 @@
                 "type": "ForgeHosted",
                 "subModules": [
                     {
-                        "id":"fabric-loader-0.11.6-1.17.1",
+                        "id":"fabric-loader-0.12.5-1.17.1",
                         "name":"Version Manifest",
                         "type": "VersionManifest",
                         "artifact":{
-                            "size":"1338",
-                            "url":"https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/fabric-loader-0.11.6-1.17.1.json?raw=true"
+                            "size":"1181",
+                            "url":"https://github.com/moehreag/AxolotlClient-files/blob/1.17-main/fabric-loader-0.12.5-1.17.1.json?raw=true"
                             }
                     },
 		    {
