@@ -42,7 +42,7 @@
     "pasteCommandLimit": 64,
     "pasteCommandNameSetblock": "setblock",
     "pickBlockableSlots": "1,2,3,4,5",
-    "toolItem": "minecraft:stick"
+    "toolItem": "minecraft:command_block_minecart"
   },
   "Hotkeys": {
     "addSelectionBox": {

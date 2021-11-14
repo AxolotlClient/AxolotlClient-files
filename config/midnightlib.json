@@ -1,6 +1,5 @@
 {
-  "config_screen_list": false,
-  "titleStyle": "TOOLTIP",
-  "event_hats": true,
+  "config_screen_list": "FALSE",
+  "background_texture": "minecraft:textures/block/deepslate.png",
   "special_hats": true
 }
