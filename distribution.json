@@ -24,124 +24,123 @@
             },
             "mainServer": true,
             "autoconnect": false,
-            "modules": [
-                {
+            "modules": [{
                 "name": "fabric-loader-0.12.6",
                 "id": "net.fabricmc:fabric-loader:0.12.6",
                 "artifact":{
                     "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.12.6/fabric-loader-0.12.6.jar"
                     },
                 "type": "ForgeHosted",
-                "subModules": [
-                    {
-                        "id":"fabric-loader-0.12.5-1.17.1",
-                        "name":"Version Manifest",
-                        "type": "VersionManifest",
-                        "artifact":{
-                            "size":"1181",
-                            "url":"https://github.com/moehreag/AxolotlClient-files/raw/1.18-main/fabric-loader-0.12.6-1.18.json"
+                    "subModules": [
+                        {
+                            "id":"fabric-loader-0.12.5-1.17.1",
+                            "name":"Version Manifest",
+                            "type": "VersionManifest",
+                            "artifact":{
+                                "size":"1181",
+                                "url":"https://github.com/moehreag/AxolotlClient-files/raw/1.18-main/fabric-loader-0.12.6-1.18.json"
+                                }
+                        },
+                        {
+                            "name":"intermediary-1.18",
+                            "id":"net.fabricmc:intermediary:1.18",
+                            "type":"Library",
+                            "artifact":{
+                                "url":"https://maven.fabricmc.net/net/fabricmc/intermediary/1.18/intermediary-1.18-v2.jar"
                             }
-                    },
-                    {
-                        "name":"intermediary-1.18",
-                        "id":"net.fabricmc:intermediary:1.18",
-                        "type":"Library",
-                        "artifact":{
-                            "url":"https://maven.fabricmc.net/net/fabricmc/intermediary/1.18/intermediary-1.18-v2.jar"
+                        },
+                        {
+                            "id": "net.fabricmc:yarn:1.18+build.1",
+                            "type":"Library",
+                            "artifact":{
+                            "url": "https://maven.fabricmc.net/net/fabricmc/yarn/1.18%2Bbuild.1/yarn-1.18%2Bbuild.1-v2.jar"
                         }
-                    },
-                    {
-                        "id": "net.fabricmc:yarn:1.18+build.1",
-                        "type":"Library",
-                        "artifact":{
-                        "url": "https://maven.fabricmc.net/net/fabricmc/yarn/1.18%2Bbuild.1/yarn-1.18%2Bbuild.1-v2.jar"
-                      }
-                    },
-                    {
-                        "id": "net.fabricmc:tiny-mappings-parser:0.3.0+build.17",
-                        "type":"Library",
-                        "artifact":{
-                        "url": "https://maven.fabricmc.net/net/fabricmc/tiny-mappings-parser/0.3.0%2Bbuild.17/tiny-mappings-parser-0.3.0+build.17.jar"
-                      }
-                    },
-                    {
-                        "id": "net.fabricmc:sponge-mixin:0.10.2+mixin.0.8.4",
-                        "type":"Library",
-                        "artifact":{
-                        "url": "https://maven.fabricmc.net/net/fabricmc/sponge-mixin/0.10.2+mixin.0.8.4/sponge-mixin-0.10.2+mixin.0.8.4.jar"
-                      }
-                    },
-                    {
-                        "id": "net.fabricmc:tiny-remapper:0.6.0",
-                        "type":"Library",
-                        "artifact":{
-                        "url": "https://maven.fabricmc.net/net/fabricmc/tiny-remapper/0.6.0/tiny-remapper-0.6.0.jar"
-                      }
-                    },
-                    {
-                        "id": "net.fabricmc:access-widener:2.0.1",
-                        "type":"Library",
-                        "artifact":{
-                        "url": "https://maven.fabricmc.net/net/fabricmc/access-widener/2.0.1/access-widener-2.0.1.jar"
-                      }
-                    },
-                    {
-                        "id": "net.fabricmc:fabric-loader-sat4j:2.3.5.4",
-                        "type":"Library",
-                        "artifact":{
-                        "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader-sat4j/2.3.5.4/fabric-loader-sat4j-2.3.5.4.jar"
-                      }
-                    },
-                    {
-                        "id": "com.google.jimfs:jimfs:1.2-fabric",
-                        "type":"Library",
-                        "artifact":{
-                        "url": "https://maven.fabricmc.net/com/google/jimfs/jimfs/1.2-fabric/jimfs-1.2-fabric.jar"
-                      }
-                    },
-                    {
-                        "id": "org.ow2.asm:asm:9.2",
-                        "type":"Library",
-                        "artifact":{
-                        "url": "https://maven.fabricmc.net/org/ow2/asm/asm/9.2/asm-9.2.jar"
-                      }
-                    },
-                    {
-                        "id": "org.ow2.asm:asm-analysis:9.2",
-                        "type":"Library",
-                        "artifact":{
-                        "url": "https://maven.fabricmc.net/org/ow2/asm/asm-analysis/9.2/asm-analysis-9.2.jar"
-                      }
-                    },
-                    {
-                        "id": "org.ow2.asm:asm-commons:9.2",
-                        "type":"Library",
-                        "artifact":{
-                        "url": "https://maven.fabricmc.net/org/ow2/asm/asm-commons/9.2/asm-commons-9.2.jar"
-                      }
-                    },
-                    {
-                        "id": "org.ow2.asm:asm-tree:9.2",
-                        "type":"Library",
-                        "artifact":{
-                        "url": "https://maven.fabricmc.net/org/ow2/asm/asm-tree/9.2/asm-tree-9.2.jar"
-                      }
-                    },
-                    {
-                        "id": "org.ow2.asm:asm-util:9.2",
-                        "type":"Library",
-                        "artifact":{
-                        "url": "https://maven.fabricmc.net/org/ow2/asm/asm-util/9.2/asm-util-9.2.jar"
+                        },
+                        {
+                            "id": "net.fabricmc:tiny-mappings-parser:0.3.0+build.17",
+                            "type":"Library",
+                            "artifact":{
+                            "url": "https://maven.fabricmc.net/net/fabricmc/tiny-mappings-parser/0.3.0%2Bbuild.17/tiny-mappings-parser-0.3.0+build.17.jar"
                         }
-                    }
+                        },
+                        {
+                            "id": "net.fabricmc:sponge-mixin:0.10.2+mixin.0.8.4",
+                            "type":"Library",
+                            "artifact":{
+                            "url": "https://maven.fabricmc.net/net/fabricmc/sponge-mixin/0.10.2+mixin.0.8.4/sponge-mixin-0.10.2+mixin.0.8.4.jar"
+                        }
+                        },
+                        {
+                            "id": "net.fabricmc:tiny-remapper:0.6.0",
+                            "type":"Library",
+                            "artifact":{
+                            "url": "https://maven.fabricmc.net/net/fabricmc/tiny-remapper/0.6.0/tiny-remapper-0.6.0.jar"
+                        }
+                        },
+                        {
+                            "id": "net.fabricmc:access-widener:2.0.1",
+                            "type":"Library",
+                            "artifact":{
+                            "url": "https://maven.fabricmc.net/net/fabricmc/access-widener/2.0.1/access-widener-2.0.1.jar"
+                        }
+                        },
+                        {
+                            "id": "net.fabricmc:fabric-loader-sat4j:2.3.5.4",
+                            "type":"Library",
+                            "artifact":{
+                            "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader-sat4j/2.3.5.4/fabric-loader-sat4j-2.3.5.4.jar"
+                        }
+                        },
+                        {
+                            "id": "com.google.jimfs:jimfs:1.2-fabric",
+                            "type":"Library",
+                            "artifact":{
+                            "url": "https://maven.fabricmc.net/com/google/jimfs/jimfs/1.2-fabric/jimfs-1.2-fabric.jar"
+                        }
+                        },
+                        {
+                            "id": "org.ow2.asm:asm:9.2",
+                            "type":"Library",
+                            "artifact":{
+                            "url": "https://maven.fabricmc.net/org/ow2/asm/asm/9.2/asm-9.2.jar"
+                        }
+                        },
+                        {
+                            "id": "org.ow2.asm:asm-analysis:9.2",
+                            "type":"Library",
+                            "artifact":{
+                            "url": "https://maven.fabricmc.net/org/ow2/asm/asm-analysis/9.2/asm-analysis-9.2.jar"
+                        }
+                        },
+                        {
+                            "id": "org.ow2.asm:asm-commons:9.2",
+                            "type":"Library",
+                            "artifact":{
+                            "url": "https://maven.fabricmc.net/org/ow2/asm/asm-commons/9.2/asm-commons-9.2.jar"
+                        }
+                        },
+                        {
+                            "id": "org.ow2.asm:asm-tree:9.2",
+                            "type":"Library",
+                            "artifact":{
+                            "url": "https://maven.fabricmc.net/org/ow2/asm/asm-tree/9.2/asm-tree-9.2.jar"
+                        }
+                        },
+                        {
+                            "id": "org.ow2.asm:asm-util:9.2",
+                            "type":"Library",
+                            "artifact":{
+                            "url": "https://maven.fabricmc.net/org/ow2/asm/asm-util/9.2/asm-util-9.2.jar"
+                            }
+                        }
 
-                ]},
+                    ]},
 
                 {"name": "fabric-api", "id": "Axolotlclient-1.18:fabric-api:0.43.1+1.18", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.43.1+1.18/fabric-api-0.43.1+1.18.jar", "size": 1130629, "MD5": "512ffe3918669e32c33b26fad281883e", "path": "Axolotlclient-1.18/fabric-api-0.43.1+1.18.jar"}},
                 {"name": "sodium-fabric-mc1.18-pre8", "id": "Axolotlclient-1.18:sodium-fabric-mc1.18-pre8:0.4.0alpha4", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.18-main/mods/sodium-fabric-mc1.18-pre8-0.4.0alpha4.jar", "size": 1310474, "MD5": "069b82f358735a18844b76dc04a30de2", "path": "Axolotlclient-1.18/sodium-fabric-mc1.18-pre8-0.4.0alpha4.jar"}},
                 {"name": "iris-mc1.18-pre7-1.1.3-rc2rev.a80493d", "id": "Axolotlclient-1.18:iris-mc1.18-pre7-1.1.3-rc2rev.a80493d:dirty", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.18-main/mods/iris-mc1.18-pre7-1.1.3-rc2rev.a80493d-dirty.jar", "size": 1626260, "MD5": "3799fbd2bda4b26d1584635f44235e2b", "path": "Axolotlclient-1.18/iris-mc1.18-pre7-1.1.3-rc2rev.a80493d-dirty.jar"}},
+                {"name": "fabricskyboxes-1.18", "id": "Axolotlclient-1.18:fabricskyboxes-1.18:0.5.4", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://github.com/AMereBagatelle/fabricskyboxes/releases/download/0.5.4/fabricskyboxes-1.18-0.5.4.jar", "size": 154055, "MD5": "c0e7e9a6e3d47f72348210f8bf7e9c49", "path": "Axolotlclient-1.18/fabricskyboxes-1.18-0.5.4.jar"}},
                 {"name": "deathlog", "id": "Axolotlclient-1.18:deathlog:0.2.3+1.18", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/TPAYeAOc/versions/0.2.3+1.18/deathlog-0.2.3+1.18.jar", "size": 122189, "MD5": "b8f980badf3a2408980246239db27859", "path": "Axolotlclient-1.18/deathlog-0.2.3+1.18.jar"}},
-                {"name": "builtin-servers-1.0.1", "id": "Axolotlclient-1.18:builtin-servers-1.0.1:BETA+1.18", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/IupkwRPf/versions/1.0.1-BETA+1.18/builtin-servers-1.0.1-BETA+1.18.jar", "size": 48144, "MD5": "a253b9986e4b3362ff6cee835ba511f9", "path": "Axolotlclient-1.18/builtin-servers-1.0.1-BETA+1.18.jar"}},
                 {"name": "notenoughcrashes-4.1.2+1.18-rc3", "id": "Axolotlclient-1.18:notenoughcrashes-4.1.2+1.18-rc3:fabric","type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/yM94ont6/versions/4.1.2+1.18-rc3-fabric/notenoughcrashes-4.1.2+1.18-rc3-fabric.jar", "size": 164080, "MD5": "b3e06a96d53f582d0623e98a9a3bec20", "path": "Axolotlclient-1.18/notenoughcrashes-4.1.2+1.18-rc3-fabric.jar"}},
                 {"name": "c2me-fabric-mc1.18-rc3-0.2.0+alpha.5.87", "id": "Axolotlclient-1.18:c2me-fabric-mc1.18-rc3-0.2.0+alpha.5.87:all", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.5.87%201.18-rc3/c2me-fabric-mc1.18-rc3-0.2.0+alpha.5.87-all.jar", "size": 1221838, "MD5": "d46fa08a7d3ce49aa3326ca9f7a5cefa", "path": "Axolotlclient-1.18/c2me-fabric-mc1.18-rc3-0.2.0+alpha.5.87-all.jar"}},
                 {"name": "DCCH", "id": "Axolotlclient-1.18:DCCH:2.0+1.17", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/sUbMm93i/versions/2.0+1.17/DCCH-2.0+1.17.jar", "size": 63939, "MD5": "63e8c0e59f874b12dfcfd2e6295223ef", "path": "Axolotlclient-1.18/DCCH-2.0+1.17.jar"}},
