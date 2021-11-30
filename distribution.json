@@ -161,7 +161,9 @@
                 {"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.17-main/resourcepacks/CTM+Fabric+1.17.X.zip", "path": "resourcepacks/CTM+Fabric+1.17.X.zip"}}
 
 
-        ]},{
+        ]},
+
+        {
             "id":"Axolotlclient-1.17.1",
             "name":"AxolotlClient 1.17.1",
             "description": "Click to select the main 1.17.1 Version of AxolotlClient!",
