@@ -1,0 +1,16 @@
+{
+  "general": {
+    "enableRenderInfo": false,
+    "enableBlockhitAnimation": false,
+    "enableOldArmorRender": false,
+    "enableCustomPlayerList": true,
+    "multiplayerScreenEnhancement": true,
+    "enableConfirmToDisconnect": true,
+    "enableVanillaPotionHUD": true,
+    "enableBossHealthBarRender": true,
+    "enableRenderBossHealthStatus": true,
+    "enableHypixelChatMode": true,
+    "enableHypixelDropdownShortcutGame": true,
+    "enableAlternateChatKey": true
+  }
+}
