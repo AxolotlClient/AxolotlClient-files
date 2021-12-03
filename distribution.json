@@ -173,6 +173,7 @@
 
                 {"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/master/servers.dat","path":"servers.dat"}},
                 {"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.17-main/config/modmenu.json", "path": "config/modmenu.json"}},
+                {"name": "indicatia.json", "id": "Axolotlclient-1.18:config", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.18-main/config/indicatia.json", "size": 477, "MD5": "47cdabcbb2c5aff67df2bf63abff295c", "path": "config/indicatia.json"}},
                 {"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.17-main/config/WindowTitleChanger/config.json5", "path": "config/WindowTitleChanger/config.json5"}},
                 {"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.17-main/options.txt","path":"options.txt"}},
                 {"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.17-main/resourcepacks/Simple-CT-1.1.0.zip", "path": "resourcepacks/Simple-CT-1.1.0.zip"}},
