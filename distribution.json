@@ -25,20 +25,19 @@
             "mainServer": true,
             "autoconnect": false,
             "modules": [{
-                "name": "fabric-loader-0.12.9",
-                "id": "net.fabricmc:fabric-loader:0.12.9",
+                "name": "fabric-loader-0.12.10",
+                "id": "net.fabricmc:fabric-loader:0.12.10",
                 "artifact":{
-                    "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.12.9/fabric-loader-0.12.9.jar"
+                    "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.12.10/fabric-loader-0.12.10.jar"
                     },
                 "type": "ForgeHosted",
                     "subModules": [
                         {
-                            "id":"fabric-loader-0.12.8-1.18",
+                            "id":"fabric-loader-0.12.9-1.18.1",
                             "name":"Version Manifest",
                             "type": "VersionManifest",
                             "artifact":{
-                                "size":"1181",
-                                "url":"https://github.com/moehreag/AxolotlClient-files/raw/1.18-main/fabric-loader-0.12.9-1.18.json"
+                                "url":"https://github.com/moehreag/AxolotlClient-files/raw/1.18-main/fabric-loader-0.12.9-1.18.1.json"
                                 }
                         },
                         {
@@ -64,10 +63,10 @@
                         }
                         },
                         {
-                            "id": "net.fabricmc:sponge-mixin:0.10.2+mixin.0.8.4",
+                            "id": "net.fabricmc:sponge-mixin:0.10.7+mixin.0.8.4",
                             "type":"Library",
                             "artifact":{
-                            "url": "https://maven.fabricmc.net/net/fabricmc/sponge-mixin/0.10.2+mixin.0.8.4/sponge-mixin-0.10.2+mixin.0.8.4.jar"
+                            "url": "https://maven.fabricmc.net/net/fabricmc/sponge-mixin/0.10.7+mixin.0.8.4/sponge-mixin-0.10.7+mixin.0.8.4.jar"
                         }
                         },
                         {
@@ -205,10 +204,10 @@
             "autoconnect": false,
             "modules": [
                 {
-                "name": "fabric-loader-0.12.9",
-                "id": "net.fabricmc:fabric-loader:0.12.9",
+                "name": "fabric-loader-0.12.10",
+                "id": "net.fabricmc:fabric-loader:0.12.10",
                 "artifact":{
-                    "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.12.9/fabric-loader-0.12.9.jar"
+                    "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.12.10/fabric-loader-0.12.10.jar"
                     },
                 "type": "ForgeHosted",
                 "subModules": [
@@ -395,7 +394,7 @@
 
 
         ]},
-        
+
         {
             "id":"Axolotlclient-1.17.1-lite",
             "name":"AxolotlClient 1.17.1 (Lite version)",
@@ -413,10 +412,10 @@
             "autoconnect": false,
             "modules": [
                 {
-                "name": "fabric-loader-0.12.9",
-                "id": "net.fabricmc:fabric-loader:0.12.9",
+                "name": "fabric-loader-0.12.10",
+                "id": "net.fabricmc:fabric-loader:0.12.10",
                 "artifact":{
-                    "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.12.9/fabric-loader-0.12.9.jar"
+                    "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.12.10/fabric-loader-0.12.10.jar"
                     },
                 "type": "ForgeHosted",
                 "subModules": [
