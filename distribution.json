@@ -136,9 +136,11 @@
                     ]},
 
                 {"name": "fabric-api", "id": "Axolotlclient-1.18:fabric-api:0.44.0+1.18", "type": "Mod", "required": {"value":true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.44.0+1.18/fabric-api-0.44.0+1.18.jar", "size": 1143259, "MD5": "02d2082af80a1582bc9b2b2472046a86", "path": "Axolotlclient-1.18/fabric-api-0.44.0+1.18.jar"}},
-                {"name": "sodium-fabric-mc1.18-0.4.0", "id": "Axolotlclient-1.18:sodium-fabric-mc1.18-0.4.0:alpha5+build.9", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18-0.40-alpha5/sodium-fabric-mc1.18-0.4.0-alpha5+build.9.jar", "size": 1311910, "MD5": "94f45dbaa6b93e7ae6f9454fdc3a6bb8", "path": "Axolotlclient-1.18/sodium-fabric-mc1.18-0.4.0-alpha5+build.9.jar"}},
+                {"name": "replaymod-1.18.1", "id": "Axolotlclient-1.18:replaymod-1.18.1:2.6.2", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://minio.replaymod.com/replaymod/replaymod-1.18.1-2.6.2.jar", "size": 12417644, "MD5": "b280e20aaef7759a95b73c66be3ce13f", "path": "Axolotlclient-1.18/replaymod-1.18.1-2.6.2.jar"}},
+                {"name": "sodium-fabric-mc1.18.1-rc1-0.4.0", "id": "Axolotlclient-1.18:sodium-fabric-mc1.18.1-rc1-0.4.0:alpha5%2Bbuild.15", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.18-main/mods/sodium-fabric-mc1.18.1-rc1-0.4.0-alpha5%2Bbuild.15.jar", "size": 1315526, "MD5": "a21d2b66648f1881bc1b08d314b4363e", "path": "Axolotlclient-1.18/sodium-fabric-mc1.18.1-rc1-0.4.0-alpha5%2Bbuild.15.jar"}},
+                {"name": "iris-mc1.18.1", "id": "Axolotlclient-1.18:iris-mc1.18.1:1.1.3", "type": "Mod", "required": {"value":true, "def": true}, "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.18-main/mods/iris-mc1.18.1-1.1.3.jar", "size": 1617488, "MD5": "797fa044f5b8213f59274f47a8f01d33", "path": "Axolotlclient-1.18/iris-mc1.18.1-1.1.3.jar"}},
+                {"name": "branding", "id": "AxolotlClient-1.18:branding:1.0.2", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.18-main/mods/branding-1.0.2.jar", "size": 7904, "MD5": "f211c9c3a0c3a8fc33567a3ae6dbcfa0", "path": "AxolotlClient-1.18/branding-1.0.2.jar"}},
                 {"name": "silence-1.18-pre5-fabric0.42.8", "id": "Axolotlclient-1.18:silence-1.18-pre5-fabric0.42.8:1.0.1", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/1PmPJ4ss/versions/1.18-pre5-fabric0.42.8-1.0.1/silence-1.18-pre5-fabric0.42.8-1.0.1.jar", "size": 115825, "MD5": "c80257495851cdff3fd56704d5e69170", "path": "Axolotlclient-1.18/silence-1.18-pre5-fabric0.42.8-1.0.1.jar"}},
-                {"name": "iris-mc1.18", "id": "Axolotlclient-1.18:iris-mc1.18:1.1.3", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/mc1.18-1.1.3/iris-mc1.18-1.1.3.jar", "size": 1626819, "MD5": "8f5970c6fcaa892be023702a9883fece", "path": "Axolotlclient-1.18/iris-mc1.18-1.1.3.jar"}},
                 {"name": "continuity", "id": "Axolotlclient-1.18:continuity:1.0.3+1.18", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/1IjD5062/versions/1.0.3+1.18/continuity-1.0.3+1.18.jar", "size": 645109, "MD5": "c501db0d604653ff51adfea4054760b8", "path": "Axolotlclient-1.18/continuity-1.0.3+1.18.jar"}},
                 {"name": "vt-downloader", "id": "Axolotlclient-1.18:vt-downloader:1.0.6+1.18", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/1E2sq1cp/versions/1.0.6+1.18/vt-downloader-1.0.6+1.18.jar", "size": 50045, "MD5": "b3457a04927f367a56539aa798aac403", "path": "Axolotlclient-1.18/vt-downloader-1.0.6+1.18.jar"}},
                 {"name": "deathlog", "id": "Axolotlclient-1.18:deathlog:0.2.4+1.18", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/TPAYeAOc/versions/0.2.4+1.18/deathlog-0.2.4+1.18.jar", "size": 122214, "MD5": "3b3c9c41a0295a661efb590ff40b9f49", "path": "Axolotlclient-1.18/deathlog-0.2.4+1.18.jar"}},
@@ -180,10 +182,8 @@
                 {"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.17-main/config/modmenu.json", "path": "config/modmenu.json"}},
                 {"name": "indicatia.json", "id": "Axolotlclient-1.18:config", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.18-main/config/indicatia.json", "path": "config/indicatia.json"}},
                 {"name": "interactic.json5", "id": "Axolotlclient-1.18:config", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.18-main/config/interactic.json5", "path": "config/interactic.json5"}},
-                {"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.17-main/config/WindowTitleChanger/config.json5", "path": "config/WindowTitleChanger/config.json5"}},
-                {"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.17-main/options.txt","path":"options.txt"}},
-                {"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.17-main/resourcepacks/Simple-CT-1.1.0.zip", "path": "resourcepacks/Simple-CT-1.1.0.zip"}},
-                {"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.17-main/resourcepacks/CTM+Fabric+1.17.X.zip", "path": "resourcepacks/CTM+Fabric+1.17.X.zip"}}
+                {"name": "replaymod.json", "id": "AxolotlClient-1.18:config", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.18-main/config/replaymod.json", "path": "config/replaymod.json"}},
+                {"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.17-main/options.txt","path":"options.txt"}}
 
 
         ]},
@@ -402,7 +402,7 @@
             "description": "Click to select the lite 1.17.1 Version of AxolotlClient!",
             "icon":"https://github.com/moehreag/AxolotlClient-files/raw/master/axolotl.png",
             "version":"0.0.1",
-            "address":"v2202010130453128524.happysrv.de",
+            "address":"moehreag.duckdns.org",
             "minecraftVersion":"1.17.1",
             "discord": {
                 "shortId":"v1.17.1l",
