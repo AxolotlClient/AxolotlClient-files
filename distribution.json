@@ -25,10 +25,10 @@
             "mainServer": true,
             "autoconnect": false,
             "modules": [{
-                "name": "fabric-loader-0.12.8",
-                "id": "net.fabricmc:fabric-loader:0.12.8",
+                "name": "fabric-loader-0.12.9",
+                "id": "net.fabricmc:fabric-loader:0.12.9",
                 "artifact":{
-                    "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.12.8/fabric-loader-0.12.8.jar"
+                    "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.12.9/fabric-loader-0.12.9.jar"
                     },
                 "type": "ForgeHosted",
                     "subModules": [
@@ -207,10 +207,10 @@
             "autoconnect": false,
             "modules": [
                 {
-                "name": "fabric-loader-0.12.5",
-                "id": "net.fabricmc:fabric-loader:0.12.5",
+                "name": "fabric-loader-0.12.9",
+                "id": "net.fabricmc:fabric-loader:0.12.9",
                 "artifact":{
-                    "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.12.5/fabric-loader-0.12.5.jar"
+                    "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.12.9/fabric-loader-0.12.9.jar"
                     },
                 "type": "ForgeHosted",
                 "subModules": [
@@ -415,10 +415,10 @@
             "autoconnect": false,
             "modules": [
                 {
-                "name": "fabric-loader-0.12.5",
-                "id": "net.fabricmc:fabric-loader:0.12.5",
+                "name": "fabric-loader-0.12.9",
+                "id": "net.fabricmc:fabric-loader:0.12.9",
                 "artifact":{
-                    "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.12.5/fabric-loader-0.12.5.jar"
+                    "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.12.9/fabric-loader-0.12.9.jar"
                     },
                 "type": "ForgeHosted",
                 "subModules": [
