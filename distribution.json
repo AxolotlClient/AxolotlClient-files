@@ -25,10 +25,10 @@
             "mainServer": true,
             "autoconnect": false,
             "modules": [{
-                "name": "fabric-loader-0.12.10",
-                "id": "net.fabricmc:fabric-loader:0.12.10",
+                "name": "fabric-loader-0.12.11",
+                "id": "net.fabricmc:fabric-loader:0.12.11",
                 "artifact":{
-                    "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.12.10/fabric-loader-0.12.10.jar"
+                    "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.12.11/fabric-loader-0.12.11.jar"
                     },
                 "type": "ForgeHosted",
                     "subModules": [
@@ -211,10 +211,10 @@
             "autoconnect": false,
             "modules": [
                 {
-                "name": "fabric-loader-0.12.10",
-                "id": "net.fabricmc:fabric-loader:0.12.10",
+                "name": "fabric-loader-0.12.11",
+                "id": "net.fabricmc:fabric-loader:0.12.11",
                 "artifact":{
-                    "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.12.10/fabric-loader-0.12.10.jar"
+                    "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.12.11/fabric-loader-0.12.11.jar"
                     },
                 "type": "ForgeHosted",
                 "subModules": [
@@ -419,10 +419,10 @@
             "autoconnect": false,
             "modules": [
                 {
-                "name": "fabric-loader-0.12.10",
-                "id": "net.fabricmc:fabric-loader:0.12.10",
+                "name": "fabric-loader-0.12.11",
+                "id": "net.fabricmc:fabric-loader:0.12.11",
                 "artifact":{
-                    "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.12.10/fabric-loader-0.12.10.jar"
+                    "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.12.11/fabric-loader-0.12.11.jar"
                     },
                 "type": "ForgeHosted",
                 "subModules": [
@@ -565,6 +565,172 @@
         {"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.17-main/config/WindowTitleChanger/config.json5", "path": "config/WindowTitleChanger/config.json5"}},
         {"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.17-main/options.txt","path":"options.txt"}},
         {"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.17-main/config/ias.json", "path": "config/ias.json"}}
+
+        ]},
+        {
+            "id":"Axolotlclient-1.16",
+            "name":"AxolotlClient 1.16",
+            "description": "Click to select the main 1.16 Version of AxolotlClient!",
+            "icon":"https://github.com/moehreag/AxolotlClient-files/raw/master/axolotl.png",
+            "version":"1.0.0",
+            "address":"moehreag.duckdns.org",
+            "minecraftVersion":"1.16.5",
+            "discord": {
+                "shortId":"v1.16.5",
+                "largeImageText":"Version 1.16.5",
+                "largeImageKey": "icon"
+            },
+            "mainServer": false,
+            "autoconnect": false,
+            "modules": [{
+                "name": "fabric-loader-0.12.11",
+                "id": "net.fabricmc:fabric-loader:0.12.11",
+                "artifact":{
+                    "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.12.11/fabric-loader-0.12.11.jar"
+                    },
+                "type": "ForgeHosted",
+                    "subModules": [
+                        {
+                            "id":"fabric-loader-0.12.11-1.16.5",
+                            "name":"Version Manifest",
+                            "type": "VersionManifest",
+                            "artifact":{
+                                "url":"https://github.com/moehreag/AxolotlClient-files/raw/1.16-main/fabric-loader-0.12.11-1.16.5.json"
+                                }
+                        },
+                        {
+                            "name":"intermediary-1.16.5",
+                            "id":"net.fabricmc:intermediary:1.16.5",
+                            "type":"Library",
+                            "artifact":{
+                                "url":"https://maven.fabricmc.net/net/fabricmc/intermediary/1.16.5/intermediary-1.16.5-v2.jar"
+                            }
+                        },
+                        {
+                            "id": "net.fabricmc:yarn:1.16.5+build.1",
+                            "type":"Library",
+                            "artifact":{
+                            "url": "https://maven.fabricmc.net/net/fabricmc/yarn/1.16.5%2Bbuild.1/yarn-1.16.5%2Bbuild.1-v2.jar"
+                        }
+                        },
+                        {
+                            "id": "net.fabricmc:tiny-mappings-parser:0.3.0+build.17",
+                            "type":"Library",
+                            "artifact":{
+                            "url": "https://maven.fabricmc.net/net/fabricmc/tiny-mappings-parser/0.3.0%2Bbuild.17/tiny-mappings-parser-0.3.0+build.17.jar"
+                        }
+                        },
+                        {
+                            "id": "net.fabricmc:sponge-mixin:0.10.7+mixin.0.8.4",
+                            "type":"Library",
+                            "artifact":{
+                            "url": "https://maven.fabricmc.net/net/fabricmc/sponge-mixin/0.10.7+mixin.0.8.4/sponge-mixin-0.10.7+mixin.0.8.4.jar"
+                        }
+                        },
+                        {
+                            "id": "net.fabricmc:tiny-remapper:0.6.0",
+                            "type":"Library",
+                            "artifact":{
+                            "url": "https://maven.fabricmc.net/net/fabricmc/tiny-remapper/0.6.0/tiny-remapper-0.6.0.jar"
+                        }
+                        },
+                        {
+                            "id": "net.fabricmc:access-widener:2.0.1",
+                            "type":"Library",
+                            "artifact":{
+                            "url": "https://maven.fabricmc.net/net/fabricmc/access-widener/2.0.1/access-widener-2.0.1.jar"
+                        }
+                        },
+                        {
+                            "id": "net.fabricmc:fabric-loader-sat4j:2.3.5.4",
+                            "type":"Library",
+                            "artifact":{
+                            "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader-sat4j/2.3.5.4/fabric-loader-sat4j-2.3.5.4.jar"
+                        }
+                        },
+                        {
+                            "id": "com.google.jimfs:jimfs:1.2-fabric",
+                            "type":"Library",
+                            "artifact":{
+                            "url": "https://maven.fabricmc.net/com/google/jimfs/jimfs/1.2-fabric/jimfs-1.2-fabric.jar"
+                        }
+                        },
+                        {
+                            "id": "org.ow2.asm:asm:9.2",
+                            "type":"Library",
+                            "artifact":{
+                            "url": "https://maven.fabricmc.net/org/ow2/asm/asm/9.2/asm-9.2.jar"
+                        }
+                        },
+                        {
+                            "id": "org.ow2.asm:asm-analysis:9.2",
+                            "type":"Library",
+                            "artifact":{
+                            "url": "https://maven.fabricmc.net/org/ow2/asm/asm-analysis/9.2/asm-analysis-9.2.jar"
+                        }
+                        },
+                        {
+                            "id": "org.ow2.asm:asm-commons:9.2",
+                            "type":"Library",
+                            "artifact":{
+                            "url": "https://maven.fabricmc.net/org/ow2/asm/asm-commons/9.2/asm-commons-9.2.jar"
+                        }
+                        },
+                        {
+                            "id": "org.ow2.asm:asm-tree:9.2",
+                            "type":"Library",
+                            "artifact":{
+                            "url": "https://maven.fabricmc.net/org/ow2/asm/asm-tree/9.2/asm-tree-9.2.jar"
+                        }
+                        },
+                        {
+                            "id": "org.ow2.asm:asm-util:9.2",
+                            "type":"Library",
+                            "artifact":{
+                            "url": "https://maven.fabricmc.net/org/ow2/asm/asm-util/9.2/asm-util-9.2.jar"
+                            }
+                        }
+
+                    ]},
+
+                    {"name": "fabric-api", "id": "Axolotlclient-1.16:fabric-api:0.42.0+1.16", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.42.0+1.16/fabric-api-0.42.0+1.16.jar", "size": 1090414, "MD5": "a0c502455195b498a8f5b4f5c15e6a04", "path": "Axolotlclient-1.16/fabric-api-0.42.0+1.16.jar"}},
+                    {"name": "branding", "id": "Axolotlclient-1.16:branding:1.0.2", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.16-main/mods/branding-1.0.2.jar", "size": 98309, "MD5": "20ea457eac095c605b94762b0c5717b0", "path": "Axolotlclient-1.16/branding-1.0.2.jar"}},
+                    {"name": "sodium-fabric-mc1.16.5", "id": "Axolotlclient-1.16:sodium-fabric-mc1.16.5:0.2.0+build.4", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.5-0.2.0/sodium-fabric-mc1.16.5-0.2.0+build.4.jar", "size": 507710, "MD5": "156bf500e9d127d695a78378527525e0", "path": "Axolotlclient-1.16/sodium-fabric-mc1.16.5-0.2.0+build.4.jar"}},
+                    {"name": "lithium-fabric-mc1.16.5", "id": "Axolotlclient-1.16:lithium-fabric-mc1.16.5:0.6.6", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.16.5-0.6.6/lithium-fabric-mc1.16.5-0.6.6.jar", "size": 349400, "MD5": "d7b1d829c23b740fc3d8a613e105938e", "path": "Axolotlclient-1.16/lithium-fabric-mc1.16.5-0.6.6.jar"}},
+                    {"name": "lazydfu", "id": "Axolotlclient-1.16:lazydfu:0.1.2", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.2/lazydfu-0.1.2.jar", "size": 15517, "MD5": "e2c6a060999351575c695706cc1694c1", "path": "Axolotlclient-1.16/lazydfu-0.1.2.jar"}},
+                    {"name": "lambdynamiclights-fabric", "id": "Axolotlclient-1.16:lambdynamiclights-fabric:1.3.4+1.16", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/yBW8D80W/versions/1.3.4+1.16/lambdynamiclights-fabric-1.3.4+1.16.jar", "size": 506005, "MD5": "d28d5a913a49c70c15ff0a7bfd18f2eb", "path": "Axolotlclient-1.16/lambdynamiclights-fabric-1.3.4+1.16.jar"}},
+                    {"name": "indium", "id": "Axolotlclient-1.16:indium:1.0.0+mc1.16.5", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.0+mc1.16.5/indium-1.0.0+mc1.16.5.jar", "size": 114793, "MD5": "dbba4ce7d95af5358388e0148c2bf025", "path": "Axolotlclient-1.16/indium-1.0.0+mc1.16.5.jar"}},
+                    {"name": "modmenu", "id": "Axolotlclient-1.16:modmenu:1.16.22", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/1.16.22/modmenu-1.16.22.jar", "size": 255238, "MD5": "b54f4e81751f42174d294fb83f4d747a", "path": "Axolotlclient-1.16/modmenu-1.16.22.jar"}},
+                    {"name": "sodium-extra-mc1.16.5", "id": "Axolotlclient-1.16:sodium-extra-mc1.16.5:0.3.5", "type": "Mod", "required": {"value": true, "def": true}, "artifact":{"url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc.1.16.5-0.3.5/sodium-extra-mc1.16.5-0.3.5.jar", "size": 70485, "MD5": "9971cd87ec95097a26092d4510d0de72", "path": "Axolotlclient-1.16/sodium-extra-mc1.16.5-0.3.5.jar"}},
+                    {"name": "phosphor-fabric-mc1.16.2", "id": "Axolotlclient-1.16:phosphor-fabric-mc1.16.2:0.8.0", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/hEOCdOgW/versions/mc1.16.2-0.8.0/phosphor-fabric-mc1.16.2-0.8.0.jar", "size": 93350, "MD5": "aaf905d302fb541101921fab00556bf2", "path": "Axolotlclient-1.16/phosphor-fabric-mc1.16.2-0.8.0.jar"}},
+                    {"name": "okzoomer", "id": "Axolotlclient-1.16:okzoomer:4.0.1+1.16.2", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/aXf2OSFU/versions/4.0.1+1.16.2/okzoomer-4.0.1+1.16.2.jar", "size": 611285, "MD5": "9a0da8b464a74287e1da9201d958f63f", "path": "Axolotlclient-1.16/okzoomer-4.0.1+1.16.2.jar"}},
+                    {"name": "lambdabettergrass-fabric", "id": "Axolotlclient-1.16:lambdabettergrass-fabric:1.0.3+1.16", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/2Uev7LdA/versions/1.0.3+1.16/lambdabettergrass-fabric-1.0.3+1.16.jar", "size": 1091254, "MD5": "c412a49c383686d504a843fe94c49c50", "path": "Axolotlclient-1.16/lambdabettergrass-fabric-1.0.3+1.16.jar"}},
+                    {"name": "dynamic-fps", "id": "Axolotlclient-1.16:dynamic-fps:2.0.2", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/2.0.2/dynamic-fps-2.0.2.jar", "size": 1275301, "MD5": "2bfdc4929b6ffef5a80b51ce6aeaa728", "path": "Axolotlclient-1.16/dynamic-fps-2.0.2.jar"}},
+                    {"name": "enhancedblockentities-0.4-", "id": "Axolotlclient-1.16:enhancedblockentities-0.4-:1.16.x", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/OVuFYfre/versions/0.4/enhancedblockentities-0.4--1.16.x.jar", "size": 247198, "MD5": "77449de6a5f7c9046fdf9975a054ed9d", "path": "Axolotlclient-1.16/enhancedblockentities-0.4--1.16.x.jar"}},
+                    {"name": "antighost-1.16.5-fabric0.30.0", "id": "Axolotlclient-1.16:antighost-1.16.5-fabric0.30.0:1.1.3", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/Jw3Wx1KR/versions/1.16.5-fabric0.30.0-1.1.3/antighost-1.16.5-fabric0.30.0-1.1.3.jar", "size": 79984, "MD5": "4152e155d92b3c90b90dcf8d3b6010a0", "path": "Axolotlclient-1.16/antighost-1.16.5-fabric0.30.0-1.1.3.jar"}},
+                    {"name": "fabricskyboxes-1.16-1.16.3", "id": "Axolotlclient-1.16:fabricskyboxes-1.16-1.16.3:0.5.0", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/YBz7DOs8/versions/0.5.0/fabricskyboxes-1.16-1.16.3-0.5.0.jar", "size": 151405, "MD5": "fc3e2d488121d67d7f26a44b0aadc745", "path": "Axolotlclient-1.16/fabricskyboxes-1.16-1.16.3-0.5.0.jar"}},
+                    {"name": "bobby", "id": "Axolotlclient-1.16:bobby:1.2.0", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/M08ruV16/versions/1.2.0/bobby-1.2.0.jar", "size": 750539, "MD5": "82a72ee9a18d28089a00fcd20a15d3cb", "path": "Axolotlclient-1.16/bobby-1.2.0.jar"}},
+                    {"name": "vt-downloader", "id": "Axolotlclient-1.16:vt-downloader:1.0.4+1.16", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/1E2sq1cp/versions/1.0.4+1.16/vt-downloader-1.0.4+1.16.jar", "size": 47285, "MD5": "fc941a644cf02d4ab4ec3151398a9859", "path": "Axolotlclient-1.16/vt-downloader-1.0.4+1.16.jar"}},
+                    {"name": "reeses_sodium_options-mc1.16.5", "id": "Axolotlclient-1.16:reeses_sodium_options-mc1.16.5:1.2.1", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/1.2.1/reeses_sodium_options-mc1.16.5-1.2.1.jar", "size": 42376, "MD5": "7074efc8b846b8e229ecae446ed5d550", "path": "Axolotlclient-1.16/reeses_sodium_options-mc1.16.5-1.2.1.jar"}},
+                    {"name": "deathlog", "id": "Axolotlclient-1.16:deathlog:0.1.2", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com//data/TPAYeAOc/versions/0.1.2/deathlog-0.1.2.jar", "size": 41246, "MD5": "0ffe40fa9d71868689776d10adc40741", "path": "Axolotlclient-1.16/deathlog-0.1.2.jar"}},
+                    {"name": "DCCH", "id": "Axolotlclient-1.16:DCCH:2.0+1.16", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/sUbMm93i/versions/2.0+1.16/DCCH-2.0+1.16.jar", "size": 63922, "MD5": "8022c23f49e97137ba96d79384fb19ab", "path": "Axolotlclient-1.16/DCCH-2.0+1.16.jar"}},
+                    {"name": "fabricskyboxes-1.16-1.16.3", "id": "Axolotlclient-1.16:fabricskyboxes-1.16-1.16.3:0.5.0", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/YBz7DOs8/versions/0.5.0/fabricskyboxes-1.16-1.16.3-0.5.0.jar", "size": 151405, "MD5": "f6f5e16ce1cab977e5995c59f286f100", "path": "Axolotlclient-1.16/fabricskyboxes-1.16-1.16.3-0.5.0.jar"}},
+                    {"name": "bobby", "id": "Axolotlclient-1.16:bobby:1.2.0", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/M08ruV16/versions/1.2.0/bobby-1.2.0.jar", "size": 750539, "MD5": "9385b2a1cc3ee386997f063026fe049c", "path": "Axolotlclient-1.16/bobby-1.2.0.jar"}},
+                    {"name": "authme-mc1.16.5", "id": "Axolotlclient-1.16:authme-mc1.16.5:2.1.0", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/yjgIrBjZ/versions/2.1.0/authme-mc1.16.5-2.1.0.jar", "size": 921826, "MD5": "28779f994148774671552da047dfa386", "path": "Axolotlclient-1.16/authme-mc1.16.5-2.1.0.jar"}},
+                    {"name": "rebind-all-the-keys", "id": "Axolotlclient-1.16:rebind-all-the-keys:1.1.1+1.16.2", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/TpKqzzMu/versions/v1.1.1+1.16.2/rebind-all-the-keys-1.1.1+1.16.2.jar", "size": 24132, "MD5": "7e6e76fdd929523156032fadd8aef626", "path": "Axolotlclient-1.16/rebind-all-the-keys-1.1.1+1.16.2.jar"}},
+                    {"name": "minimalmenu-1.16.5", "id": "Axolotlclient-1.16:minimalmenu-1.16.5:0.0.5", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/BYtiUf2Z/versions/1.16.5-0.05/minimalmenu-1.16.5-0.0.5.jar", "size": 401272, "MD5": "447e1dba7da150547bef2b4f3fb2856b", "path": "Axolotlclient-1.16/minimalmenu-1.16.5-0.0.5.jar"}},
+                    {"name": "KronHUD", "id": "Axolotlclient-1.16:KronHUD:1.1.0", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/uDMPYwAN/versions/1.16.2/KronHUD-1.1.0.jar", "size": 252915, "MD5": "f208fa0516909f40447feb8696df0986", "path": "Axolotlclient-1.16/KronHUD-1.1.0.jar"}},
+                    {"name": "titlefixer", "id": "Axolotlclient-1.16:titlefixer:1.0+1.16.5", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/8zYE8DiW/versions/1.0+1.16.5/titlefixer-1.0+1.16.5.jar", "size": 33959, "MD5": "260131c335d27a17b8df9dce04f5fc4e", "path": "Axolotlclient-1.16/titlefixer-1.0+1.16.5.jar"}},
+                    {"name": "autoconfig1u", "id": "Axolotlclient-1.16:autoconfig1u:3.3.1", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://media.forgecdn.net/files/3095/961/autoconfig1u-3.3.1.jar", "size": 231447, "MD5": "3990d8acb0d114e8a5d7bdf59d8bd38e", "path": "Axolotlclient-1.16/autoconfig1u-3.3.1.jar"}},
+                    {"name": "cloth-config-4.13.49", "id": "Axolotlclient-1.16:cloth-config-4.13.49:fabric", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://media.forgecdn.net/files/3559/633/cloth-config-4.13.49-fabric.jar", "size": 979157, "MD5": "709b40c84f2379d1ab3a467a44b1b44e", "path": "Axolotlclient-1.16/cloth-config-4.13.49-fabric.jar"}},
+                    {"name": "PetOwner-1.8.0", "id": "Axolotlclient-1.16:PetOwner-1.8.0:1.16.5+", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/IxUlAAFe/versions/1.8.0/PetOwner-1.8.0-1.16.5+.jar", "size": 184233, "MD5": "a1fc577ac5d5eba983d3cbdcc81333c8", "path": "Axolotlclient-1.16/PetOwner-1.8.0-1.16.5+.jar"}},
+                    {"name": "custom_hud", "id": "Axolotlclient-1.16:custom_hud:1.2.3+1.16.2", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/6jis0UTI/versions/v1.2.3+1.16/custom_hud-1.2.3+1.16.2.jar", "size": 49215, "MD5": "7c94709928baee7e64df653010756f2e", "path": "Axolotlclient-1.16/custom_hud-1.2.3+1.16.2.jar"}},
+                    {"name": "mcwifipnp-1.5.3-1.16.5", "id": "Axolotlclient-1.16:mcwifipnp-1.5.3-1.16.5:fabric", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/RTWpcTBp/versions/Fabric%201.16.x/mcwifipnp-1.5.3-1.16.5-fabric.jar", "size": 61611, "MD5": "074fedb45d6724b61960d86d49c66f39", "path": "Axolotlclient-1.16/mcwifipnp-1.5.3-1.16.5-fabric.jar"}},
+                    {"name": "timechanger", "id": "Axolotlclient-1.16:timechanger:1.0.0", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/1itdse3V/versions/1.0.0/timechanger-1.0.0.jar", "size": 584681, "MD5": "d46a7de509550faec642f35e6e83b6c8", "path": "Axolotlclient-1.16/timechanger-1.0.0.jar"}},
+
+                    {"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/master/servers.dat","path":"servers.dat"}},
+                    {"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.17-main/options.txt","path":"options.txt"}},
+                    {"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.17-main/config/modmenu.json", "path": "config/modmenu.json"}}
 
         ]}
     ]
