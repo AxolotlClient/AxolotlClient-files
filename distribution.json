@@ -185,7 +185,7 @@
                 {"name": "skyblocker", "id": "Axolotlclient-1.18:skyblocker:1.4.2+1.18", "type": "Mod", "required": {"value": false, "def": true}, "artifact": {"url": "https://github.com/LifeIsAParadox/Skyblocker/releases/download/v1.4.2/skyblocker-1.4.2+1.18.jar", "size": 967385, "MD5": "b9ae6507cdce56985e69811bad928cd3", "path":"Axolotlclient-1.18/optional/skyblocker-1.4.2+1.18.jar"}},
                 {"name": "skeletonfix", "id": "Axolotlclient-1.18:skeletonfix:1.0.0", "type": "Mod", "required": {"value": false, "def": true}, "artifact": {"url": "https://media.forgecdn.net/files/3569/636/skeletonfix-1.0.0.jar", "size": 30070, "MD5": "87bcd0143ae4cd695adb5db74a3f9be8", "path": "Axolotlclient-1.18/optional/skeletonfix-1.0.0.jar"}},
 
-                {"id": "config", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/master/servers.dat","path":"servers.dat"}},
+                {"id": "config", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/master/servers.dat","path":"../../minecraft/servers.dat"}},
                 {"id": "config", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.17-main/config/modmenu.json", "path": "config/modmenu.json"}},
                 {"name": "indicatia.json", "id": "Axolotlclient-1.18:config", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.18-main/config/indicatia.json", "path": "config/indicatia.json"}},
                 {"name": "interactic.json5", "id": "Axolotlclient-1.18:config", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.18-main/config/interactic.json5", "path": "config/interactic.json5"}},
