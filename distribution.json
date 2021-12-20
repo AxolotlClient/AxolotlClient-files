@@ -190,7 +190,7 @@
                 {"name": "indicatia.json", "id": "Axolotlclient-1.18:config", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.18-main/config/indicatia.json", "path": "config/indicatia.json"}},
                 {"name": "interactic.json5", "id": "Axolotlclient-1.18:config", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.18-main/config/interactic.json5", "path": "config/interactic.json5"}},
                 {"name": "replaymod.json", "id": "AxolotlClient-1.18:config", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.18-main/config/replaymod.json", "path": "config/replaymod.json"}},
-                {"id": "config", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.17-main/options.txt","path":"options.txt"}}
+                {"id": "config", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/master/options.txt","path":"options.txt"}}
 
 
         ]},
@@ -393,7 +393,7 @@
         {"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.17-main/config/modmenu.json", "path": "config/modmenu.json"}},
         {"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.17-main/config/figura.json", "path": "config/figura.json"}},
         {"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.17-main/config/WindowTitleChanger/config.json5", "path": "config/WindowTitleChanger/config.json5"}},
-        {"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.17-main/options.txt","path":"options.txt"}},
+        {"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/master/options.txt","path":"options.txt"}},
         {"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.17-main/resourcepacks/Simple-CT-1.1.0.zip", "path": "resourcepacks/Simple-CT-1.1.0.zip"}},
         {"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.17-main/resourcepacks/CTM+Fabric+1.17.X.zip", "path": "resourcepacks/CTM+Fabric+1.17.X.zip"}},
         {"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.17-main/config/indicatia.json", "path": "config/indicatia.json"}},
@@ -562,7 +562,7 @@
         {"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.17-main/config/modmenu.json", "path": "config/modmenu.json"}},
         {"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.17-main/config/figura.json", "path": "config/figura.json"}},
         {"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.17-main/config/WindowTitleChanger/config.json5", "path": "config/WindowTitleChanger/config.json5"}},
-        {"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.17-main/options.txt","path":"options.txt"}},
+        {"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/master/options.txt","path":"options.txt"}},
         {"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.17-main/config/ias.json", "path": "config/ias.json"}}
 
         ]},
@@ -728,7 +728,7 @@
                     {"name": "timechanger", "id": "Axolotlclient-1.16:timechanger:1.0.0", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/1itdse3V/versions/1.0.0/timechanger-1.0.0.jar", "size": 584681, "MD5": "d46a7de509550faec642f35e6e83b6c8", "path": "Axolotlclient-1.16/required/timechanger-1.0.0.jar"}},
 
                     {"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/master/servers.dat","path":"servers.dat"}},
-                    {"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.17-main/options.txt","path":"options.txt"}},
+                    {"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/master/options.txt","path":"options.txt"}},
                     {"id": "mod", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.17-main/config/modmenu.json", "path": "config/modmenu.json"}}
 
         ]}
