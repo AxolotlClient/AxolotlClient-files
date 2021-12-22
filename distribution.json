@@ -6,7 +6,7 @@
         "smallImageKey":"none"
     },
     "java": {
-        "adoptium": "https://adoptium.net/releases.html?variant=openjdk16&jvmVariant=hotspot"
+        "adoptium": "https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot"
     },
     "servers":
         [{
@@ -592,11 +592,11 @@
                 "type": "Loader",
                     "subModules": [
                         {
-                            "id":"fabric-loader-0.12.12-1.16.5",
+                            "id":"fabric-loader-0.12.11-1.16.5",
                             "name":"Version Manifest",
                             "type": "VersionManifest",
                             "artifact":{
-                                "url":"https://github.com/moehreag/AxolotlClient-files/raw/1.16-main/fabric-loader-0.12.12-1.16.5.json"
+                                "url":"https://github.com/moehreag/AxolotlClient-files/raw/1.16-main/fabric-loader-0.12.11-1.16.5.json"
                                 }
                         },
                         {
