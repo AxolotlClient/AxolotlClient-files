@@ -610,10 +610,10 @@
                             }
                         },
                         {
-                            "id": "net.fabricmc:yarn:1.16.5+build.1",
+                            "id": "net.fabricmc:yarn:1.16.5+build.10",
                             "type":"Library",
                             "artifact":{
-                            "url": "https://maven.fabricmc.net/net/fabricmc/yarn/1.16.5%2Bbuild.1/yarn-1.16.5%2Bbuild.1-v2.jar"
+                            "url": "https://maven.fabricmc.net/net/fabricmc/yarn/1.16.5%2Bbuild.10/yarn-1.16.5%2Bbuild.10-v2.jar"
                         }
                         },
                         {
@@ -697,7 +697,7 @@
                     ]},
 
                     {"name": "fabric-api", "id": "Axolotlclient-1.16:fabric-api:0.42.0+1.16", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.42.0+1.16/fabric-api-0.42.0+1.16.jar", "size": 1090414, "MD5": "a0c502455195b498a8f5b4f5c15e6a04", "path": "Axolotlclient-1.16/required/fabric-api-0.42.0+1.16.jar"}},
-                    {"name": "branding", "id": "Axolotlclient-1.16:branding:1.0.2", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.16-main/mods/branding-1.0.2.jar", "size": 98309, "MD5": "20ea457eac095c605b94762b0c5717b0", "path": "Axolotlclient-1.16/required/branding-1.0.2.jar"}},
+                    {"name": "AxolotlClient", "id": "Axolotlclient-1.16:AxolotlClient:1.1.5", "type": "Mod", "required": {"value":true, "def": true}, "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.16-main/mods/AxolotlClient-1.1.5.jar", "size": 2191552, "MD5": "5b118d462c96d6d70b7b037efc5a8f88", "path": "Axolotlclient-1.16/required/AxolotlClient-1.1.5.jar"}},
                     {"name": "sodium-fabric-mc1.16.5", "id": "Axolotlclient-1.16:sodium-fabric-mc1.16.5:0.2.0+build.4", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.5-0.2.0/sodium-fabric-mc1.16.5-0.2.0+build.4.jar", "size": 507710, "MD5": "156bf500e9d127d695a78378527525e0", "path": "Axolotlclient-1.16/required/sodium-fabric-mc1.16.5-0.2.0+build.4.jar"}},
                     {"name": "lithium-fabric-mc1.16.5", "id": "Axolotlclient-1.16:lithium-fabric-mc1.16.5:0.6.6", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.16.5-0.6.6/lithium-fabric-mc1.16.5-0.6.6.jar", "size": 349400, "MD5": "d7b1d829c23b740fc3d8a613e105938e", "path": "Axolotlclient-1.16/required/lithium-fabric-mc1.16.5-0.6.6.jar"}},
                     {"name": "lazydfu", "id": "Axolotlclient-1.16:lazydfu:0.1.2", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.2/lazydfu-0.1.2.jar", "size": 15517, "MD5": "e2c6a060999351575c695706cc1694c1", "path": "Axolotlclient-1.16/required/lazydfu-0.1.2.jar"}},
