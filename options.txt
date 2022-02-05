@@ -34,8 +34,8 @@ graphicsMode:0
 ao:2
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","Fabric Mods","lambdabettergrass/default"]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","Fabric Mods","lambdabettergrass/default", "continuity/default","continuity/glass_pane_culling_fix"]
+incompatibleResourcePacks:["lambdabettergrass/default"]
 lastServer:
 lang:en_us
 chatVisibility:0
