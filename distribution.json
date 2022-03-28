@@ -760,7 +760,7 @@
                 "name": "fabric-loader-0.12.12",
                 "id": "net.fabricmc:fabric-loader:0.12.12",
                 "artifact":{
-                    "url": "https://maven.fabricmc.net/"
+                    "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.12.12/fabric-loader-0.12.12.jar"
                     },
                 "type": "Loader",
                     "subModules": [
