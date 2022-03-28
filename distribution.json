@@ -866,8 +866,7 @@
                         }
 
                     ]},
-                    {"name": "legacy", "id": "Axolotlclient-1.8:legacy:fabric-resource-loader-v1-1.0.0%2B1e58a10239", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://maven.legacyfabric.net/net/legacyfabric/legacy-fabric-api/legacy-fabric-resource-loader-v1/1.0.0%2B1e58a10239/legacy-fabric-resource-loader-v1-1.0.0%2B1e58a10239.jar", "size": 5769, "MD5": "e0bb384c1cd4bf542ba05702fe6493f9", "path": "Axolotlclient-1.8/required/legacy-fabric-resource-loader-v1-1.0.0%2B1e58a10239.jar"}},
-                    {"name": "legacy", "id": "Axolotlclient-1.8:legacy:fabric-keybinding-api-v1-1.0.0%2Bee2bf60e39", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://maven.legacyfabric.net/net/legacyfabric/legacy-fabric-api/legacy-fabric-keybinding-api-v1/1.0.0%2Bee2bf60e39/legacy-fabric-keybinding-api-v1-1.0.0%2Bee2bf60e39.jar", "size": 7732, "MD5": "1806fab89a27b58a8ebaaf0f8831783d", "path": "Axolotlclient-1.8/required/legacy-fabric-keybinding-api-v1-1.0.0%2Bee2bf60e39.jar"}},
+
                     {"name": "Axolotlclient", "id": "Axolotlclient-1.8:Axolotlclient:1.8.9-1.0.0", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.8-main/mods/Axolotlclient-1.8.9-1.0.0.jar", "size": 2230875, "MD5": "f3349d3d5962305b9617175dc6b2a590", "path": "Axolotlclient-1.8/required/Axolotlclient-1.8.9-1.0.0.jar"}}
             ]
         }
