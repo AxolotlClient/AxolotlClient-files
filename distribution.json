@@ -20,120 +20,105 @@
             "mainServer": true,
             "autoconnect": false,
             "modules": [{
-                "name": "fabric-loader-0.13.3",
-                "id": "net.fabricmc:fabric-loader:0.13.3",
+                "name": "quilt-loader-0.16.0-beta.7",
+                "id": "org.quiltmc:quilt-loader:0.16.0-beta.7",
                 "artifact":{
-                    "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.13.3/fabric-loader-0.13.3.jar"
+                    "url": "https://maven.quiltmc.org/repository/release/org/quiltmc/quilt-loader/0.16.0-beta.7/quilt-loader-0.16.0-beta.7.jar"
                     },
                 "type": "Loader",
                     "subModules": [
                         {
-                            "id":"fabric-loader-0.13.3-1.18.2",
+                            "id":"quilt-loader-0.16.0-beta.7-1.18.2",
                             "name":"Version Manifest",
                             "type": "VersionManifest",
                             "artifact":{
-                                "url":"https://github.com/moehreag/AxolotlClient-files/raw/1.18-main/fabric-loader-0.13.3-1.18.2.json"
+                                "url":"https://github.com/AxolotlClient/AxolotlClient-files/raw/1.18-main/quilt-loader-0.16.0-beta.7-1.18.2.json"
                                 }
-                        },
-                        {
-                            "name":"intermediary-1.18.2",
-                            "id":"net.fabricmc:intermediary:1.18.2",
-                            "type":"Library",
-                            "artifact":{
-                                "url":"https://maven.fabricmc.net/net/fabricmc/intermediary/1.18.2/intermediary-1.18.2-v2.jar"
-                            }
-                        },
-                        {
-                            "id": "net.fabricmc:yarn:1.18.2+build.2",
-                            "type":"Library",
-                            "artifact":{
-                            "url": "https://maven.fabricmc.net/net/fabricmc/yarn/1.18.2%2Bbuild.2/yarn-1.18.2%2Bbuild.2-v2.jar"
-                        }
                         },
                         {
                             "id": "net.fabricmc:tiny-mappings-parser:0.3.0+build.17",
                             "type":"Library",
                             "artifact":{
-                            "url": "https://maven.fabricmc.net/net/fabricmc/tiny-mappings-parser/0.3.0%2Bbuild.17/tiny-mappings-parser-0.3.0+build.17.jar"
-                        }
+                                "url": "https://maven.fabricmc.net/"
+                            }
                         },
                         {
                             "id": "net.fabricmc:sponge-mixin:0.11.2+mixin.0.8.5",
                             "type":"Library",
                             "artifact":{
-                            "url": "https://maven.fabricmc.net/net/fabricmc/sponge-mixin/0.11.2+mixin.0.8.5/sponge-mixin-0.11.2+mixin.0.8.5.jar"
-                        }
+                                "url": "https://maven.fabricmc.net/"
+                            }
                         },
                         {
                             "id": "net.fabricmc:tiny-remapper:0.8.1",
                             "type":"Library",
                             "artifact":{
-                            "url": "https://maven.fabricmc.net/net/fabricmc/tiny-remapper/0.8.1/tiny-remapper-0.8.1.jar"
-                        }
+                                "url": "https://maven.fabricmc.net/"
+                            }
                         },
                         {
                             "id": "net.fabricmc:access-widener:2.1.0",
                             "type":"Library",
                             "artifact":{
-                            "url": "https://maven.fabricmc.net/net/fabricmc/access-widener/2.1.0/access-widener-2.1.0.jar"
-                        }
+                                "url": "https://maven.fabricmc.net/"
+                            }
                         },
                         {
-                            "id": "net.fabricmc:fabric-loader-sat4j:2.3.5.4",
+                            "id": "org.quiltmc:quilt-json5:1.0.0",
                             "type":"Library",
                             "artifact":{
-                            "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader-sat4j/2.3.5.4/fabric-loader-sat4j-2.3.5.4.jar"
-                        }
-                        },
-                        {
-                            "id": "com.google.jimfs:jimfs:1.2-fabric",
-                            "type":"Library",
-                            "artifact":{
-                            "url": "https://maven.fabricmc.net/com/google/jimfs/jimfs/1.2-fabric/jimfs-1.2-fabric.jar"
-                        }
+                                "url": "https://maven.quiltmc.org/repository/release/org/quiltmc/quilt-json5/1.0.0/quilt-json5-1.0.0.jar"
+                            }
+
                         },
                         {
                             "id": "org.ow2.asm:asm:9.2",
                             "type":"Library",
                             "artifact":{
-                            "url": "https://maven.fabricmc.net/org/ow2/asm/asm/9.2/asm-9.2.jar"
-                        }
+                                "url": "https://maven.fabricmc.net/"
+                            }
                         },
                         {
                             "id": "org.ow2.asm:asm-analysis:9.2",
                             "type":"Library",
                             "artifact":{
-                            "url": "https://maven.fabricmc.net/org/ow2/asm/asm-analysis/9.2/asm-analysis-9.2.jar"
-                        }
+                                "url": "https://maven.fabricmc.net/"
+                            }
                         },
                         {
                             "id": "org.ow2.asm:asm-commons:9.2",
                             "type":"Library",
                             "artifact":{
-                            "url": "https://maven.fabricmc.net/org/ow2/asm/asm-commons/9.2/asm-commons-9.2.jar"
-                        }
+                                "url": "https://maven.fabricmc.net/"
+                            }
                         },
                         {
                             "id": "org.ow2.asm:asm-tree:9.2",
                             "type":"Library",
                             "artifact":{
-                            "url": "https://maven.fabricmc.net/org/ow2/asm/asm-tree/9.2/asm-tree-9.2.jar"
-                        }
+                                "url": "https://maven.fabricmc.net/"
+                            }
                         },
                         {
                             "id": "org.ow2.asm:asm-util:9.2",
                             "type":"Library",
                             "artifact":{
-                            "url": "https://maven.fabricmc.net/org/ow2/asm/asm-util/9.2/asm-util-9.2.jar"
+                                "url": "https://maven.fabricmc.net/"
+                            }
+                        },
+                        {
+                            "id": "net.fabricmc:intermediary:1.18.2",
+                            "type":"Library",
+                            "artifact":{
+                                "url": "https://maven.fabricmc.net/"
                             }
                         }
-
                     ]},
 
-                {"name": "fabric", "id": "Axolotlclient-1.18:fabric:api-0.48.0%2B1.18.2", "type": "Mod", "required": {"value":true, "def": true}, "artifact": {"url": "https://cdn-raw.modrinth.com/data/P7dR8mSH/versions/0.48.0+1.18.2/fabric-api-0.48.0%2B1.18.2.jar", "size": 1296154, "MD5": "bd1d08142cd656c620dee185eb2cfed6", "path": "Axolotlclient-1.18/required/fabric-api-0.48.0%2B1.18.2.jar"}},
+                {"name": "qsl", "id": "Axolotlclient-1.18:qsl:1.1.0-beta.4_qfapi-1.0.0-beta.7_fapi-0.51.1_mc-1.18.2", "type": "Mod", "required": {"value": true, "def": true},"artifact": {"url": "https://cdn-raw.modrinth.com/data/qvIfYCYJ/versions/1.0.0-beta.7+0.51.1-1.18.2/qsl-1.1.0-beta.4_qfapi-1.0.0-beta.7_fapi-0.51.1_mc-1.18.2.jar", "size": 1447698, "MD5": "d488df3b6241751e32255de3f1d0ecb0", "path": "Axolotlclient-1.18/required/qsl-1.1.0-beta.4_qfapi-1.0.0-beta.7_fapi-0.51.1_mc-1.18.2.jar"}},
                 {"name": "replaymod", "id": "Axolotlclient-1.18:replaymod:1.18.2-2.6.4", "type": "Mod", "required": {"value": false, "def": false}, "artifact": {"url": "https://minio.replaymod.com/replaymod/replaymod-1.18.2-2.6.4.jar", "size": 12448943, "MD5": "42eb29886582fcf9f71035a6027a6f02", "path": "Axolotlclient-1.18/optional/replaymod-1.18.2-2.6.4.jar"}},
                 {"name": "sodium", "id": "Axolotlclient-1.18:sodium:fabric-mc1.18.2-0.4.1%2Breplaymod.build.18", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.18-main/mods/sodium-fabric-mc1.18.2-0.4.1%2Breplaymod.build.18.jar", "size": 1321053, "MD5": "1deb55404e7c2fa7e9c1db89776d0fab", "path": "Axolotlclient-1.18/required/sodium-fabric-mc1.18.2-0.4.1%2Breplaymod.build.18.jar"}},
-                {"name": "AxolotlClient", "id": "Axolotlclient-1.18:AxolotlClient:1.1.8", "type": "Mod", "required": {"value":true, "def": true}, "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.18-main/mods/AxolotlClient-1.1.8.jar", "size": 2204974, "MD5": "302efcd3b4454a1d5e9b816b8550a11a", "path": "Axolotlclient-1.18/required/AxolotlClient-1.1.8.jar"}},
+
                 {"name": "tooltip", "id": "Axolotlclient-1.18:tooltip:scroll-1.0.2", "type": "Mod", "required": {"value": false, "def": false}, "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.18-main/mods/tooltip-scroll-1.0.2.jar", "size": 13372, "MD5": "a8fe19e73b684352949684345e744c0b", "path": "Axolotlclient-1.18/optional/tooltip-scroll-1.0.2.jar"}},
                 {"name": "lithium", "id": "Axolotlclient-1.18:lithium:fabric-mc1.18.2-0.7.9", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn-raw.modrinth.com/data/gvQqBUqZ/versions/mc1.18.2-0.7.9/lithium-fabric-mc1.18.2-0.7.9.jar", "size": 443704, "MD5": "cda0b104899d7c82f2da8c0bf6de31a2", "path": "Axolotlclient-1.18/required/lithium-fabric-mc1.18.2-0.7.9.jar"}},
                 {"name": "modmenu", "id": "Axolotlclient-1.18:modmenu:3.1.0", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn-raw.modrinth.com/data/mOgUt4GM/versions/3.1.0/modmenu-3.1.0.jar", "size": 273342, "MD5": "6c6d8219682b36721f89a0bfa595ad0f", "path": "Axolotlclient-1.18/required/modmenu-3.1.0.jar"}},
@@ -158,20 +143,19 @@
                 {"name": "entity", "id": "Axolotlclient-1.18:entity:view-distance-1.0.1%2B1.18.2", "type": "Mod", "required": {"value": false, "def": true}, "artifact": {"url": "https://cdn-raw.modrinth.com/data/ihnBJ6on/versions/1.0.1+1.18.2/entity-view-distance-1.0.1%2B1.18.2.jar", "size": 238246, "MD5": "1aafb314ba10f3a4f93298115364e3e2", "path": "Axolotlclient-1.18/optional/entity-view-distance-1.0.1%2B1.18.2.jar"}},
                 {"name": "no", "id": "Axolotlclient-1.18:no:telemetry-1.3.0", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn-raw.modrinth.com/data/hg77g4Pw/versions/1.3.0/no-telemetry-1.3.0.jar", "size": 84523, "MD5": "914376815d1c47ad4e2eaace8536359e", "path": "Axolotlclient-1.18/required/no-telemetry-1.3.0.jar"}},
                 {"name": "lambdynamiclights", "id": "Axolotlclient-1.18:lambdynamiclights:2.1.0+1.17", "type": "Mod", "required": {"value": false, "def": true}, "artifact": {"url": "https://cdn-raw.modrinth.com/data/yBW8D80W/versions/2.1.0+1.17/lambdynamiclights-2.1.0+1.17.jar", "size": 592987, "MD5": "d7a0afeb3992208383904e9956f8802f", "path":"Axolotlclient-1.18/optional/lambdynamiclights-2.1.0+1.17.jar"}},
-                {"name": "inspecio", "id": "Axolotlclient-1.18:inspecio:1.3.0%2B1.18", "type": "Mod", "required": {"value": false, "def": false}, "artifact": {"url": "https://cdn-raw.modrinth.com/data/a93H3mKU/versions/1.3.0+1.18/inspecio-1.3.0%2B1.18.jar", "size": 455720, "MD5": "1533a684b1fad927b4af132fca8bde30", "path": "Axolotlclient-1.18/optional/inspecio-1.3.0%2B1.18.jar"}},
+                {"name": "inspecio", "id": "Axolotlclient-1.18:inspecio:1.4.1%2B1.18", "type": "Mod", "required": {"value": false, "def": false}, "artifact": {"url": "https://cdn-raw.modrinth.com/data/a93H3mKU/versions/1.4.1+1.18/inspecio-1.4.1%2B1.18.jar", "size": 300412, "MD5": "9c45d6afaa0885164f7074ed1399adf2", "path": "Axolotlclient-1.18/optional/inspecio-1.4.1%2B1.18.jar"}},
                 {"name": "lambdabettergrass", "id": "Axolotlclient-1.18:lambdabettergrass:1.2.3%2B1.18", "type": "Mod", "required": {"value": false, "def": true}, "artifact": {"url": "https://cdn-raw.modrinth.com/data/2Uev7LdA/versions/1.2.3+1.18/lambdabettergrass-1.2.3%2B1.18.jar", "size": 1151411, "MD5": "0b186b2badc0165007bfbe4190e3026a", "path": "Axolotlclient-1.18/optional/lambdabettergrass-1.2.3%2B1.18.jar"}},
                 {"name": "axolotl-item-fix", "id": "Axolotlclient-1.18:axolotl-item-fix:1.1.3", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://media.forgecdn.net/files/3515/755/axolotl-item-fix-1.1.3.jar", "size": 43657, "MD5": "84a758515a980fe2e72195fadab5e048", "path": "Axolotlclient-1.18/required/axolotl-item-fix-1.1.3.jar"}},
-                {"name": "okzoomer", "id": "Axolotlclient-1.18:okzoomer:5.0.0-beta.6%2B1.18.2", "type": "Mod", "required": {"value": false, "def": true}, "artifact": {"url": "https://cdn-raw.modrinth.com/data/aXf2OSFU/versions/5.0.0-beta.6+1.18.2/okzoomer-5.0.0-beta.6%2B1.18.2.jar", "size": 448237, "MD5": "80bcfbb9e6ed5caae4ae0bf5960006f3", "path": "Axolotlclient-1.18/optional/okzoomer-5.0.0-beta.6%2B1.18.2.jar"}},
+                {"name": "cloth", "id": "Axolotlclient-1.18:cloth:config-6.2.57-fabric", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://media.forgecdn.net/files/3641/132/cloth-config-6.2.57-fabric.jar", "size": 1122823, "MD5": "ab58623938c27c8bb20f654f8dfaa73c", "path": "Axolotlclient-1.18/required/cloth-config-6.2.57-fabric.jar"}},
                 {"name": "dynamic", "id": "Axolotlclient-1.18:dynamic:fps-2.1.0", "type": "Mod", "required": {"value": false, "def": true}, "artifact": {"url": "https://cdn-raw.modrinth.com/data/LQ3K71Q1/versions/v2.1.0/dynamic-fps-2.1.0.jar", "size": 88824, "MD5": "3fb144c2525a3f0e6372f43d102cd254", "path": "Axolotlclient-1.18/optional/dynamic-fps-2.1.0.jar"}},
                 {"name": "antighost", "id": "Axolotlclient-1.18:antighost:1.18.2-fabric0.47.10-1.1.4", "type": "Mod", "required": {"value": false, "def": true}, "artifact": {"url": "https://cdn-raw.modrinth.com/data/Jw3Wx1KR/versions/1.18.2-fabric0.47.10-1.1.4/antighost-1.18.2-fabric0.47.10-1.1.4.jar", "size": 78234, "MD5": "1c2dd3437a1a8c42a05fa2669b3565b5", "path": "Axolotlclient-1.18/optional/antighost-1.18.2-fabric0.47.10-1.1.4.jar"}},
                 {"name": "mcwifipnp", "id": "Axolotlclient-1.18:mcwifipnp:1.5.4-1.18.2-fabric", "type": "Mod", "required": {"value": false, "def": false}, "artifact": {"url": "https://cdn-raw.modrinth.com/data/RTWpcTBp/versions/1.5.4-1.18.2-fabric/mcwifipnp-1.5.4-1.18.2-fabric.jar", "size": 60793, "MD5": "36c2de93257f51adcaf27c241aa99f85", "path": "Axolotlclient-1.18/optional/mcwifipnp-1.5.4-1.18.2-fabric.jar"}},
                 {"name": "statssearch", "id": "Axolotlclient-1.18:statssearch:1.18.2-fabric0.47.10-1.0.1", "type": "Mod", "required": {"value": false, "def": true}, "artifact": {"url": "https://cdn-raw.modrinth.com/data/jM41BciC/versions/1.18.2-fabric0.47.10-1.0.1/statssearch-1.18.2-fabric0.47.10-1.0.1.jar", "size": 14290, "MD5": "836b52dc6999e9030bd44e87e682cf82", "path": "Axolotlclient-1.18/optional/statssearch-1.18.2-fabric0.47.10-1.0.1.jar"}},
                 {"name": "InGameAccountSwitcher", "id": "Axolotlclient-1.18:InGameAccountSwitcher:Fabric-1.18-7.1.3", "type": "Mod", "required": {"value": false, "def": false}, "artifact": {"url": "https://cdn-raw.modrinth.com/data/cudtvDnd/versions/7.1.3-fa1.18/InGameAccountSwitcher-Fabric-1.18-7.1.3.jar", "size": 104043, "MD5": "a0094efc44cec4e7cab9c65d3a0bdf96", "path": "Axolotlclient-1.18/optional/InGameAccountSwitcher-Fabric-1.18-7.1.3.jar"}},
-                {"name": "Blanket%20Client%20tweaks", "id": "Axolotlclient-1.18:Blanket%20Client%20tweaks:1.0.2", "type": "Mod", "required": {"value": false, "def": true}, "artifact": {"url": "https://cdn-raw.modrinth.com/data/gxpkKtVH/versions/1.0.2/Blanket%20Client%20tweaks-1.0.2.jar", "size": 1095339, "MD5": "a9db07af93aa088e71fa1dbe2b47c1c8", "path": "Axolotlclient-1.18/optional/Blanket%20Client%20tweaks-1.0.2.jar"}},
                 {"name": "polymer", "id": "Axolotlclient-1.18:polymer:all-0.2.0-beta.36%2B1.18.2", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn-raw.modrinth.com/data/xGdtZczs/versions/0.2.0-beta.36+1.18.2/polymer-all-0.2.0-beta.36%2B1.18.2.jar", "size": 465316, "MD5": "5fdcb7bc056f99bf6c90c62b99fa5965", "path": "Axolotlclient-1.18/required/polymer-all-0.2.0-beta.36%2B1.18.2.jar"}},
                 {"name": "ferritecore", "id": "Axolotlclient-1.18:ferritecore:4.2.0-fabric", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn-raw.modrinth.com/data/uXXizFIs/versions/4.2.0/ferritecore-4.2.0-fabric.jar", "size": 106529, "MD5": "c50acb599208e3df2db7f48c0795287d", "path": "Axolotlclient-1.18/required/ferritecore-4.2.0-fabric.jar"}},
                 {"name": "fabrishot", "id": "Axolotlclient-1.18:fabrishot:1.7.0", "type": "Mod", "required": {"value": false, "def": false}, "artifact": {"url": "https://cdn-raw.modrinth.com/data/3qsfQtE9/versions/1.7.0/fabrishot-1.7.0.jar", "size": 38520, "MD5": "ee6479282447c20a4e34505d35a49bcd", "path": "Axolotlclient-1.18/optional/fabrishot-1.7.0.jar"}},
-                {"name": "skyblocker", "id": "Axolotlclient-1.18:skyblocker:1.6.1%2B1.18.x", "type": "Mod", "required": {"value": false, "def": false}, "artifact": {"url": "https://cdn-raw.modrinth.com/data/y6DuFGwJ/versions/v1.6.1+1.18.x/skyblocker-1.6.1%2B1.18.x.jar", "size": 4035906, "MD5": "b09294efa361ae66d99a67e1431712b4", "path": "Axolotlclient-1.18/optional/skyblocker-1.6.1%2B1.18.x.jar"}},
+                {"name": "ok_zoomer", "id": "Axolotlclient-1.18:ok_zoomer:5.0.0-beta.7%2B1.18.2", "type": "Mod", "required": {"value": false, "def": true}, "artifact": {"url": "https://cdn-raw.modrinth.com/data/aXf2OSFU/versions/5.0.0-beta.7+1.18.2/ok_zoomer-5.0.0-beta.7%2B1.18.2.jar", "size": 264173, "MD5": "fcf0e638db7deb29ecba484d02a98395", "path": "Axolotlclient-1.18/optional/ok_zoomer-5.0.0-beta.7%2B1.18.2.jar"}},
                 {"name": "moderate", "id": "Axolotlclient-1.18:moderate:loading-screen-1.1.2+1.17-1.18", "type": "Mod", "required": {"value": false, "def": false}, "artifact": {"url": "https://cdn-raw.modrinth.com/data/RCjGlCDj/versions/1.1.2/moderate-loading-screen-1.1.2+1.17-1.18.jar", "size": 974660, "MD5": "29b7f5a1879c926936eb5475cb8b74aa", "path": "Axolotlclient-1.18/optional/moderate-loading-screen-1.1.2+1.17-1.18.jar"}},
                 {"name": "animatica", "id": "Axolotlclient-1.18:animatica:0.4%2B1.18", "type": "Mod", "required": {"value": false, "def": true}, "artifact": {"url": "https://cdn-raw.modrinth.com/data/PRN43VSY/versions/0.4+1.18/animatica-0.4%2B1.18.jar", "size": 72110, "MD5": "81efd5a0be9b4055c8bbaf7ec80e762f", "path": "Axolotlclient-1.18/optional/animatica-0.4%2B1.18.jar"}},
                 {"name": "clientsidenoteblocks", "id": "Axolotlclient-1.18:clientsidenoteblocks:2.1+1.18", "type": "Mod", "required": {"value": false, "def": true}, "artifact": {"url": "https://cdn-raw.modrinth.com/data/flmhXQgb/versions/2.1/clientsidenoteblocks-2.1+1.18.jar", "size": 215925, "MD5": "c89dafe12fb4ede983c48af8c5c1f2c6", "path": "Axolotlclient-1.18/optional/clientsidenoteblocks-2.1+1.18.jar"}},
@@ -179,7 +163,7 @@
                 {"name": "entityculling", "id": "Axolotlclient-1.18:entityculling:fabric-mc1.18-1.5.0", "type": "Mod", "required": {"value": false, "def": true}, "artifact": {"url": "https://github.com/tr7zw/EntityCulling/releases/download/1.5.0-1.18/entityculling-fabric-mc1.18-1.5.0.jar", "size": 44583, "MD5": "a07ca2ae6ecdca282589428c14b87e5e", "path": "Axolotlclient-1.18/optional/entityculling-fabric-mc1.18-1.5.0.jar"}},
                 {"name": "CITResewn", "id": "Axolotlclient-1.18:CITResewn:1.0.1%2B1.18.2", "type": "Mod", "required": {"value": false, "def": false}, "artifact": {"url": "https://cdn-raw.modrinth.com/data/otVJckYQ/versions/1.0.1+1.18.2/CITResewn-1.0.1%2B1.18.2.jar", "size": 374977, "MD5": "4d991bc8d57f55dc42a0d67801e5eac6", "path": "Axolotlclient-1.18/optional/CITResewn-1.0.1%2B1.18.2.jar"}},
                 {"name": "fastopenlinksandfolders", "id": "Axolotlclient-1.18:fastopenlinksandfolders:1.1.0", "type": "Mod", "required": {"value": false, "def": true}, "artifact": {"url": "https://media.forgecdn.net/files/3629/291/fastopenlinksandfolders-1.1.0.jar", "size": 4639, "MD5": "d8f3bf9ed538b88c2901c2ecdc9f9ad6", "path": "Axolotlclient-1.18/optional/fastopenlinksandfolders-1.1.0.jar"}},
-                {"name": "cloth", "id": "Axolotlclient-1.18:cloth:config-6.2.57-fabric", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://media.forgecdn.net/files/3641/132/cloth-config-6.2.57-fabric.jar", "size": 1122823, "MD5": "ab58623938c27c8bb20f654f8dfaa73c", "path": "Axolotlclient-1.18/required/cloth-config-6.2.57-fabric.jar"}},
+                {"name": "skyblocker", "id": "Axolotlclient-1.18:skyblocker:1.6.2%2B1.18.x", "type": "Mod", "required": {"value": false, "def": false}, "artifact": {"url": "https://cdn-raw.modrinth.com/data/y6DuFGwJ/versions/v1.6.2+1.18.x/skyblocker-1.6.2%2B1.18.x.jar", "size": 4037903, "MD5": "3fb7d384ae7aa71abb80dd8497142821", "path": "Axolotlclient-1.18/optional/skyblocker-1.6.2%2B1.18.x.jar"}},
                 {"name": "architectury", "id": "Axolotlclient-1.18:architectury:4.1.36", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://media.forgecdn.net/files/3717/905/architectury-4.1.36.jar", "size": 539286, "MD5": "e9969355fbdf5a216304799c27d60d98", "path": "Axolotlclient-1.18/required/architectury-4.1.36.jar"}},
                 {"name": "malilib", "id": "Axolotlclient-1.18:malilib:fabric-1.18.2-0.12.1", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://media.forgecdn.net/files/3692/220/malilib-fabric-1.18.2-0.12.1.jar", "size": 495524, "MD5": "846774b75ac020cc038dedd6e460a349", "path": "Axolotlclient-1.18/required/malilib-fabric-1.18.2-0.12.1.jar"}},
                 {"name": "skeletonfix", "id": "Axolotlclient-1.18:skeletonfix:1.1.1%2B1.18", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://media.forgecdn.net/files/3575/600/skeletonfix-1.1.1%2B1.18.jar", "size": 29337, "MD5": "78bb97b935d7cae6c63389deaedc196c", "path": "Axolotlclient-1.18/required/skeletonfix-1.1.1%2B1.18.jar"}},
