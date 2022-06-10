@@ -112,6 +112,12 @@
                             "artifact":{
                                 "url": "https://maven.fabricmc.net/"
                             }
+                        },
+                        {   "id": "org.quiltmc:quilt:config:1.0.0-beta.4",
+                            "type": "Library",
+                            "artifact": {
+                                "url": "https://maven.quiltmc.org/repository/release/org/quiltmc/quilt-config/1.0.0-beta.4/quilt-config-1.0.0-beta.4.jar"
+                            }
                         }
                     ]},
 
