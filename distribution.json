@@ -20,19 +20,19 @@
             "mainServer": true,
             "autoconnect": false,
             "modules": [{
-                "name": "quilt-loader-0.16.0-beta.7",
-                "id": "org.quiltmc:quilt-loader:0.16.0-beta.7",
+                "name": "quilt-loader-0.17.0-beta.4",
+                "id": "org.quiltmc:quilt-loader:0.17.0-beta.4",
                 "artifact":{
-                    "url": "https://maven.quiltmc.org/repository/release/org/quiltmc/quilt-loader/0.16.0-beta.7/quilt-loader-0.16.0-beta.7.jar"
+                    "url": "https://maven.quiltmc.org/repository/release/org/quiltmc/quilt-loader/0.17.0-beta.4/quilt-loader-0.17.0-beta.4.jar"
                     },
                 "type": "Loader",
                     "subModules": [
                         {
-                            "id":"quilt-loader-0.16.0-beta.7-1.18.2",
+                            "id":"quilt-loader-0.17.0-beta.4-1.18.2",
                             "name":"Version Manifest",
                             "type": "VersionManifest",
                             "artifact":{
-                                "url":"https://github.com/AxolotlClient/AxolotlClient-files/raw/1.18-main/quilt-loader-0.16.0-beta.7-1.18.2.json"
+                                "url":"https://github.com/AxolotlClient/AxolotlClient-files/raw/1.18-main/quilt-loader-0.17.0-beta.4-1.18.2.json"
                                 }
                         },
                         {
@@ -43,7 +43,7 @@
                             }
                         },
                         {
-                            "id": "net.fabricmc:sponge-mixin:0.11.2+mixin.0.8.5",
+                            "id": "net.fabricmc:sponge-mixin:0.11.4+mixin.0.8.5",
                             "type":"Library",
                             "artifact":{
                                 "url": "https://maven.fabricmc.net/"
@@ -115,7 +115,7 @@
                         }
                     ]},
 
-                {"name": "qsl", "id": "Axolotlclient-1.18:qsl:1.1.0-beta.4_qfapi-1.0.0-beta.7_fapi-0.51.1_mc-1.18.2", "type": "Mod", "required": {"value": true, "def": true},"artifact": {"url": "https://cdn-raw.modrinth.com/data/qvIfYCYJ/versions/1.0.0-beta.7+0.51.1-1.18.2/qsl-1.1.0-beta.4_qfapi-1.0.0-beta.7_fapi-0.51.1_mc-1.18.2.jar", "size": 1447698, "MD5": "d488df3b6241751e32255de3f1d0ecb0", "path": "Axolotlclient-1.18/required/qsl-1.1.0-beta.4_qfapi-1.0.0-beta.7_fapi-0.51.1_mc-1.18.2.jar"}},
+                {"name": "qsl", "id": "Axolotlclient-1.18:qsl:1.1.0-beta.17_qfapi-1.0.0-beta.19_fapi-0.55.1_mc-1.18.2", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://cdn-raw.modrinth.com/data/qvIfYCYJ/versions/1.0.0-beta.19+0.55.1-1.18.2/qsl-1.1.0-beta.17_qfapi-1.0.0-beta.19_fapi-0.55.1_mc-1.18.2.jar", "size": 1088527, "MD5": "314089781cd9c9aff981bb5766ef3745", "path": "Axolotlclient-1.18/required/qsl-1.1.0-beta.17_qfapi-1.0.0-beta.19_fapi-0.55.1_mc-1.18.2.jar"}},
                 {"name": "replaymod", "id": "Axolotlclient-1.18:replaymod:1.18.2-2.6.4", "type": "Mod", "required": {"value": false, "def": false}, "artifact": {"url": "https://minio.replaymod.com/replaymod/replaymod-1.18.2-2.6.4.jar", "size": 12448943, "MD5": "42eb29886582fcf9f71035a6027a6f02", "path": "Axolotlclient-1.18/optional/replaymod-1.18.2-2.6.4.jar"}},
                 {"name": "sodium", "id": "Axolotlclient-1.18:sodium:fabric-mc1.18.2-0.4.1%2Breplaymod.build.18", "type": "Mod", "required": {"value": true, "def": true}, "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/1.18-main/mods/sodium-fabric-mc1.18.2-0.4.1%2Breplaymod.build.18.jar", "size": 1321053, "MD5": "1deb55404e7c2fa7e9c1db89776d0fab", "path": "Axolotlclient-1.18/required/sodium-fabric-mc1.18.2-0.4.1%2Breplaymod.build.18.jar"}},
 
