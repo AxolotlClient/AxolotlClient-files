@@ -23,7 +23,7 @@
                 "name": "quilt-loader-0.17.0",
                 "id": "org.quiltmc:quilt-loader:0.17.0",
                 "artifact":{
-                    "url": "https://maven.quiltmc.org/repository/release/"
+                    "url": "https://maven.quiltmc.org/repository/release/org/quiltmc/quilt-loader/0.17.0/quilt-loader-0.17.0.jar"
                     },
                 "type": "Loader",
                     "subModules": [
@@ -67,7 +67,7 @@
                             "id": "org.quiltmc:quilt-json5:1.0.1",
                             "type":"Library",
                             "artifact":{
-                                "url": "https://maven.quiltmc.org/repository/release/"
+                                "url": "https://maven.quiltmc.org/repository/release/org/quiltmc/quilt-json5/1.0.1/quilt-json5-1.0.1.jar"
                             }
                         },
                         {
@@ -115,7 +115,7 @@
                         {   "id": "org.quiltmc:quilt:config:1.0.0-beta.4",
                             "type": "Library",
                             "artifact": {
-                                "url": "https://maven.quiltmc.org/repository/release/"
+                                "url": "https://maven.quiltmc.org/repository/release/org/quiltmc/quilt-config/1.0.0-beta.4/quilt-config-1.0.0-beta.4.jar"
                             }
                         }
                     ]},
