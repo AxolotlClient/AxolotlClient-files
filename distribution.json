@@ -153,6 +153,8 @@
                     {"name": "bobby", "id": "Axolotlclient-1.19:bobby:4.0.0", "type": "Mod", "required": {"value": false, "def": false}, "artifact": {"url": "https://cdn-raw.modrinth.com/data/M08ruV16/versions/4.0.0/bobby-4.0.0.jar", "size": 776264, "MD5": "8bd7f1a92f72b8cf85ee198c6da58ae9", "path": "Axolotlclient-1.19/optional/bobby-4.0.0.jar"}},
                     {"name": "entity", "id": "Axolotlclient-1.19:entity:texture-features-3.1.2-mc1.19", "type": "Mod", "required": {"value": false, "def": true}, "artifact": {"url": "https://cdn-raw.modrinth.com/data/BVzZfTc1/versions/3.1.2/entity-texture-features-3.1.2-mc1.19.jar", "size": 1169555, "MD5": "c6e9d19562d9bf78dcc3941484fd6d69", "path": "Axolotlclient-1.19/optional/entity-texture-features-3.1.2-mc1.19.jar"}},
 
+                    {"name": "Cosmetica%201.19%201.1.1.jar", "id": "Axolotlclient-1.19:Cosmetica%201.19%201.1.1.jar:", "type": "Mod", "required": {"value": false, "def": true}, "artifact": {"url": "https://cdn-raw.modrinth.com/data/s9hF9QGp/versions/1.1.1-1.19/Cosmetica%201.19%201.1.1.jar", "size": 430203, "MD5": "b9b10269dfc60e522fe7bfcfb2904b2c", "path": "Axolotlclient-1.19/optional/Cosmetica%201.19%201.1.1.jar"}},
+
 
                     {"id": "config", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/master/servers.dat","path":"../../minecraft/servers.dat"}},
                     {"id": "config", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/master/options.txt","path":"options.txt"}}
