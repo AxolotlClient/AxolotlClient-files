@@ -20,10 +20,10 @@
             "mainServer": true,
             "autoconnect": false,
             "modules": [{
-                "name": "quilt-loader-0.17.1.beta-2",
-                "id": "org.quiltmc:quilt-loader:0.17.1.beta-2",
+                "name": "quilt-loader-0.17.1-beta.4",
+                "id": "org.quiltmc:quilt-loader:0.17.1-beta.4",
                 "artifact":{
-                    "url": "https://maven.quiltmc.org/repository/release/org/quiltmc/quilt-loader/0.17.1.beta-2/quilt-loader-0.17.1.beta-2.jar"
+                    "url": "https://maven.quiltmc.org/repository/release/org/quiltmc/quilt-loader/0.17.1-beta.4/quilt-loader-0.17.1-beta.4.jar"
                     },
                 "type": "Loader",
                     "subModules": [
