@@ -154,7 +154,7 @@
                     {"name": "entity", "id": "Axolotlclient-1.19:entity:texture-features-3.1.2-mc1.19", "type": "Mod", "required": {"value": false, "def": true}, "artifact": {"url": "https://cdn-raw.modrinth.com/data/BVzZfTc1/versions/3.1.2/entity-texture-features-3.1.2-mc1.19.jar", "size": 1169555, "MD5": "c6e9d19562d9bf78dcc3941484fd6d69", "path": "Axolotlclient-1.19/optional/entity-texture-features-3.1.2-mc1.19.jar"}},
 
                     {"name": "Cosmetica%201.19%201.1.1.jar", "id": "Axolotlclient-1.19:Cosmetica%201.19%201.1.1.jar:", "type": "Mod", "required": {"value": false, "def": true}, "artifact": {"url": "https://cdn-raw.modrinth.com/data/s9hF9QGp/versions/1.1.1-1.19/Cosmetica%201.19%201.1.1.jar", "size": 430203, "MD5": "b9b10269dfc60e522fe7bfcfb2904b2c", "path": "Axolotlclient-1.19/optional/Cosmetica%201.19%201.1.1.jar"}},
-
+                    {"name": "midnightcontrols", "id": "Axolotlclient-1.19:midnightcontrols:1.2.2%2B1.19", "type": "Mod", "required": {"value": false, "def": false}, "artifact": {"url": "https://cdn-raw.modrinth.com/data/bXX9h73M/versions/1.2.2/midnightcontrols-1.2.2%2B1.19.jar", "size": 571280, "MD5": "bf41a32e8c3070bcffb038ee54c6cea2", "path": "Axolotlclient-1.19/optional/midnightcontrols-1.2.2%2B1.19.jar"}},
 
                     {"id": "config", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/master/servers.dat","path":"../../minecraft/servers.dat"}},
                     {"id": "config", "type": "File", "artifact": {"url": "https://github.com/moehreag/AxolotlClient-files/raw/master/options.txt","path":"options.txt"}}
